@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<assets>
+	<scripts>
+		<file>js/core.js</file>
+		<file>js/transition.js</file>
+		<file>js/background.js</file>
+		<file>js/search-classie.js</file>
+		<file>js/search-uisearch.js</file>
+	</scripts>
+
+	<stylesheets>
+		<file>css/background.css</file>
+		<file>css/search-component.css</file>
+		<file>//fonts.googleapis.com/css?family=Lato|Roboto</file>
+	</stylesheets>
+</assets>

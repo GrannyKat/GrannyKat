@@ -1,0 +1,78 @@
+name: JoomHost Icon Text
+slug: hostsite-icon-text
+groups: JoomHost
+
+form:
+  general:
+    - name: icon_text
+      type: group-repeater
+      schema:
+        - name: title
+          type: text
+
+        - name: icon_enabled
+          type: switch
+          label: Use Icon
+          help: Here you can choose whether icon set below should be used.
+
+        - name: icon
+          type: icon
+          depends:
+            icon_enabled: true
+
+        - name: image
+          type: file-manager
+          depends:
+            icon_enabled: false
+
+        - name: image_alt_text
+          type: text
+          label: Image Alt Text
+          help: Define the HTML ALT text for your image here.
+          depends:
+            icon_enabled: false
+      value:
+        - title: Icon text
+
+  styles:
+    - name: text_divider
+      type: divider
+
+    - name: text_font
+      type: typography
+
+    - name: text_color
+      type: color
+
+    - name: text_indent
+      type: slider
+      value: 15
+      suffix: px
+      min: 0
+      max: 50
+
+    - name: icon_divider
+      type: divider
+
+    - name: icon_size
+      type: slider
+      label: Icon Size
+      value: 30
+      suffix: px
+
+    - name: icon_color
+      type: color
+
+    - name: global_divider
+      type: divider
+
+    - name: space_between
+      type: slider
+      value: 12
+      suffix: px
+
+    - name: margin
+      type: margin
+
+    - name: padding
+      type: padding

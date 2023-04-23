@@ -1,0 +1,11 @@
+
+@font-face {
+	font-family: 'SFNS Display';
+	src: url('HelveticaNeueDeskInterface-Regular.eot');
+	src: url('HelveticaNeueDeskInterface-Regular.eot?#iefix') format('embedded-opentype'),
+		url('HelveticaNeueDeskInterface-Regular.woff2') format('woff2'),
+		url('HelveticaNeueDeskInterface-Regular.woff') format('woff'),
+		url('HelveticaNeueDeskInterface-Regular.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}

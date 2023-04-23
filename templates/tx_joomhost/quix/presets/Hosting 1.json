@@ -1,0 +1,4610 @@
+{
+  "groups": [],
+  "title": "Hosting 1",
+  "type": "layout",
+  "data": [
+    {
+      "visibility": {
+        "lg": true,
+        "md": true,
+        "sm": true,
+        "xs": true
+      },
+      "form": {
+        "general": {
+          "container": true,
+          "bg_image": "images/themexpert/pages/header-bg.png",
+          "image_size": "cover",
+          "bg_color": "#267ae9",
+          "parallax_styles": "",
+          "background_image": "",
+          "image_position": "center",
+          "element_style": "",
+          "parallax_x": 0,
+          "padding": {
+            "top": "50px",
+            "left": "",
+            "bottom": "50px",
+            "right": ""
+          },
+          "bg_parallax": false,
+          "parallax_y": -250,
+          "bg_overlay": false,
+          "parallax_breakpoint": 0,
+          "stretch_mode": false,
+          "image_repeat": "no-repeat"
+        },
+        "styles": {
+          "box_shadow": false,
+          "box_shadow_color": "",
+          "box_shadow_blur": 0,
+          "box_shadow_spread": 0,
+          "box_shadow_horizontal": 0,
+          "box_shadow_vertical": 0,
+          "box_shadow_inset": false
+        },
+        "animation": {
+          "hover_shadow_horizontal": 0,
+          "hover_animation": 0,
+          "hover_shadow": "",
+          "hover_shadow_blur": 0,
+          "animation": 0,
+          "hover_shadow_color": "",
+          "animation_delay": 0.1,
+          "hover_shadow_scale": 1,
+          "hover_shadow_spread": 0,
+          "hover_shadow_vertical": 0,
+          "entrance": "",
+          "hover": ""
+        },
+        "advanced": {
+          "identifier": "",
+          "label": "Page Title",
+          "id": "qx-section-709",
+          "class": ""
+        }
+      },
+      "slug": "section",
+      "children": [
+        {
+          "visibility": {
+            "lg": true,
+            "md": true,
+            "sm": true,
+            "xs": true
+          },
+          "form": {
+            "general": {
+              "container": false,
+              "bg_image": "",
+              "equal_column": false,
+              "image_size": "initial",
+              "bg_color": "",
+              "image_position": "initial",
+              "margin": {
+                "top": "",
+                "left": "",
+                "bottom": "",
+                "right": ""
+              },
+              "padding": {
+                "top": "",
+                "left": "",
+                "bottom": "",
+                "right": ""
+              },
+              "bg_parallax": false,
+              "bg_overlay": false,
+              "image_repeat": "no-repeat"
+            },
+            "advanced": {
+              "label": "Row",
+              "id": "qx-row-8110",
+              "class": ""
+            }
+          },
+          "slug": "row",
+          "children": [
+            {
+              "visibility": {
+                "lg": true,
+                "md": true,
+                "sm": true,
+                "xs": true
+              },
+              "form": {
+                "general": {
+                  "center_text": false,
+                  "bg_image": "",
+                  "image_repeat": "no-repeat",
+                  "image_position": "initial",
+                  "image_size": "initial",
+                  "bg_color": "",
+                  "margin": {
+                    "top": "",
+                    "left": "",
+                    "bottom": "",
+                    "right": ""
+                  },
+                  "padding": {
+                    "top": "",
+                    "left": "",
+                    "bottom": "",
+                    "right": ""
+                  }
+                },
+                "advanced": {
+                  "label": "Column",
+                  "id": "qx-column-8211",
+                  "class": ""
+                }
+              },
+              "slug": "column",
+              "children": [
+                {
+                  "visibility": {
+                    "lg": true,
+                    "md": true,
+                    "sm": true,
+                    "xs": true
+                  },
+                  "form": {
+                    "general": {
+                      "module_id": 17,
+                      "alignment": "left",
+                      "margin": {
+                        "top": "",
+                        "left": "",
+                        "bottom": "",
+                        "right": ""
+                      },
+                      "padding": {
+                        "top": "",
+                        "left": "",
+                        "bottom": "",
+                        "right": ""
+                      }
+                    },
+                    "animation": {
+                      "hover_shadow_horizontal": 0,
+                      "hover_animation": 0,
+                      "hover_shadow": "",
+                      "hover_shadow_blur": 0,
+                      "animation": "slideInUp",
+                      "hover_shadow_color": "",
+                      "animation_delay": 0.1,
+                      "hover_shadow_scale": 1,
+                      "hover_shadow_spread": 0,
+                      "hover_shadow_vertical": 0,
+                      "entrance": "",
+                      "hover": ""
+                    },
+                    "advanced": {
+                      "identifier": "",
+                      "label": "Joomla Module",
+                      "id": "qx-joomla-module-9512",
+                      "class": ""
+                    }
+                  },
+                  "slug": "joomla-module"
+                },
+                {
+                  "visibility": {
+                    "lg": true,
+                    "md": true,
+                    "sm": true,
+                    "xs": true
+                  },
+                  "form": {
+                    "general": {
+                      "title_text": "We deliver what you need",
+                      "paragraph_text": "",
+                      "subtitle_position": "after_title",
+                      "title_tag": "h2",
+                      "alignment": "left"
+                    },
+                    "styles": {
+                      "paragraph_font": {
+                        "size": "",
+                        "bold": "",
+                        "underline": "",
+                        "italic": "",
+                        "family": "",
+                        "case": "",
+                        "spacing": "",
+                        "height": ""
+                      },
+                      "title_span_note": "",
+                      "paragraph_text_color": "",
+                      "title_style": "",
+                      "subtitle_style": "",
+                      "margin": {
+                        "top": "",
+                        "left": "",
+                        "bottom": "",
+                        "right": ""
+                      },
+                      "paragraph_text_margin": {
+                        "top": "",
+                        "left": "",
+                        "bottom": "",
+                        "right": ""
+                      },
+                      "padding": {
+                        "top": "",
+                        "left": "",
+                        "bottom": "",
+                        "right": ""
+                      },
+                      "title_span_color": "",
+                      "title_font": {
+                        "size": "38px",
+                        "bold": true,
+                        "underline": "",
+                        "italic": "",
+                        "family": {
+                          "label": "Roboto",
+                          "value": "Roboto",
+                          "clearable": true
+                        },
+                        "case": {
+                          "label": "Uppercase",
+                          "value": "uppercase"
+                        },
+                        "spacing": "",
+                        "height": ""
+                      },
+                      "title_text_color": "rgba(255, 255, 255, 1)",
+                      "title_text_margin": {
+                        "top": "",
+                        "left": "",
+                        "bottom": "0px",
+                        "right": ""
+                      },
+                      "element": "",
+                      "title_span_font": {
+                        "size": "",
+                        "bold": "",
+                        "underline": "",
+                        "italic": "",
+                        "family": "",
+                        "case": "",
+                        "spacing": "",
+                        "height": ""
+                      }
+                    },
+                    "animation": {
+                      "hover_shadow_horizontal": 0,
+                      "hover_animation": 0,
+                      "hover_shadow": "",
+                      "hover_shadow_blur": 0,
+                      "animation": "slideInUp",
+                      "hover_shadow_color": "",
+                      "animation_delay": "0.2",
+                      "hover_shadow_scale": 1,
+                      "hover_shadow_spread": 0,
+                      "hover_shadow_vertical": 0,
+                      "entrance": "",
+                      "hover": ""
+                    },
+                    "advanced": {
+                      "identifier": "",
+                      "label": "Heading",
+                      "id": "qx-heading-6113",
+                      "class": ""
+                    }
+                  },
+                  "slug": "heading"
+                }
+              ],
+              "size": {
+                "lg": 1,
+                "md": 1,
+                "sm": 1,
+                "xs": 1
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "visibility": {
+        "lg": true,
+        "md": true,
+        "sm": true,
+        "xs": true
+      },
+      "form": {
+        "general": {
+          "container": true,
+          "bg_image": "",
+          "image_size": "initial",
+          "bg_color": "",
+          "parallax_styles": "",
+          "background_image": "",
+          "image_position": "initial",
+          "element_style": "",
+          "parallax_x": 0,
+          "padding": {
+            "top": "100px",
+            "left": "",
+            "bottom": "100px",
+            "right": ""
+          },
+          "bg_parallax": false,
+          "parallax_y": -250,
+          "bg_overlay": false,
+          "parallax_breakpoint": 0,
+          "stretch_mode": false,
+          "image_repeat": "no-repeat"
+        },
+        "styles": {
+          "box_shadow": false,
+          "box_shadow_color": "",
+          "box_shadow_blur": 0,
+          "box_shadow_spread": 0,
+          "box_shadow_horizontal": 0,
+          "box_shadow_vertical": 0,
+          "box_shadow_inset": false
+        },
+        "animation": {
+          "hover_shadow_horizontal": 0,
+          "hover_animation": 0,
+          "hover_shadow": "",
+          "hover_shadow_blur": 0,
+          "animation": 0,
+          "hover_shadow_color": "",
+          "animation_delay": 0.1,
+          "hover_shadow_scale": 1,
+          "hover_shadow_spread": 0,
+          "hover_shadow_vertical": 0,
+          "entrance": "",
+          "hover": ""
+        },
+        "advanced": {
+          "identifier": "",
+          "label": "Section 1",
+          "id": "qx-section-8188",
+          "class": ""
+        }
+      },
+      "slug": "section",
+      "children": [
+        {
+          "visibility": {
+            "lg": true,
+            "md": true,
+            "sm": true,
+            "xs": true
+          },
+          "form": {
+            "general": {
+              "container": false,
+              "bg_image": "",
+              "equal_column": false,
+              "image_size": "initial",
+              "bg_color": "",
+              "parallax_styles": "",
+              "background_image": "",
+              "image_position": "initial",
+              "margin": {
+                "top": "",
+                "left": "",
+                "bottom": "",
+                "right": ""
+              },
+              "element_style": "",
+              "parallax_x": 0,
+              "padding": {
+                "top": "",
+                "left": "",
+                "bottom": "",
+                "right": ""
+              },
+              "bg_parallax": false,
+              "parallax_y": -250,
+              "bg_overlay": false,
+              "parallax_breakpoint": "",
+              "image_repeat": "no-repeat"
+            },
+            "styles": {
+              "box_shadow": false,
+              "box_shadow_color": "",
+              "box_shadow_blur": 0,
+              "box_shadow_spread": 0,
+              "box_shadow_horizontal": 0,
+              "box_shadow_vertical": 0,
+              "box_shadow_inset": false
+            },
+            "animation": {
+              "hover_shadow_horizontal": 0,
+              "hover_animation": 0,
+              "hover_shadow": "",
+              "hover_shadow_blur": 0,
+              "animation": 0,
+              "hover_shadow_color": "",
+              "animation_delay": 0.1,
+              "hover_shadow_scale": 1,
+              "hover_shadow_spread": 0,
+              "hover_shadow_vertical": 0,
+              "entrance": "",
+              "hover": ""
+            },
+            "advanced": {
+              "identifier": "",
+              "label": "Row",
+              "id": "qx-row-4789",
+              "class": ""
+            }
+          },
+          "slug": "row",
+          "children": [
+            {
+              "visibility": {
+                "lg": true,
+                "md": true,
+                "sm": true,
+                "xs": true
+              },
+              "form": {
+                "general": {
+                  "center_text": false,
+                  "bg_image": "",
+                  "image_repeat": "no-repeat",
+                  "image_position": "initial",
+                  "image_size": "initial",
+                  "bg_color": "",
+                  "margin": {
+                    "top": "",
+                    "left": "",
+                    "bottom": "",
+                    "right": ""
+                  },
+                  "padding": {
+                    "top": "",
+                    "left": "",
+                    "bottom": "",
+                    "right": ""
+                  }
+                },
+                "styles": {
+                  "box_shadow": false,
+                  "box_shadow_color": "",
+                  "box_shadow_blur": 0,
+                  "box_shadow_spread": 0,
+                  "box_shadow_horizontal": 0,
+                  "box_shadow_vertical": 0,
+                  "box_shadow_inset": false
+                },
+                "animation": {
+                  "hover_shadow_horizontal": 0,
+                  "hover_animation": 0,
+                  "hover_shadow": "",
+                  "hover_shadow_blur": 0,
+                  "animation": 0,
+                  "hover_shadow_color": "",
+                  "animation_delay": 0.1,
+                  "hover_shadow_scale": 1,
+                  "hover_shadow_spread": 0,
+                  "hover_shadow_vertical": 0,
+                  "entrance": "",
+                  "hover": ""
+                },
+                "advanced": {
+                  "identifier": "",
+                  "label": "Column",
+                  "id": "qx-column-2193",
+                  "class": ""
+                }
+              },
+              "slug": "column",
+              "children": [
+                {
+                  "visibility": {
+                    "lg": true,
+                    "md": true,
+                    "sm": true,
+                    "xs": true
+                  },
+                  "form": {
+                    "general": {
+                      "plantype": "Month",
+                      "image_packege": "images/themexpert/home/home1/pricing/1.png",
+                      "layout": 2,
+                      "packege": "Cloud Hosting",
+                      "button": {
+                        "text": "See Plan",
+                        "url": "#",
+                        "target": false
+                      },
+                      "featurelist": [
+                        ""
+                      ],
+                      "btnstyle": "qx-btn-primary",
+                      "btntype": "regular",
+                      "amount": "$99",
+                      "description": "I think your best bet would be to start or join a startup. That’s been a reliable way to get rich for hundreds of years.",
+                      "curency": "From"
+                    },
+                    "styles": {
+                      "description_color": "",
+                      "cost_margin": {
+                        "top": "",
+                        "left": "",
+                        "bottom": "",
+                        "right": ""
+                      },
+                      "curency_color": "",
+                      "alignment": "center",
+                      "bg_color_divider": "",
+                      "border_radius": "0",
+                      "table_heading_curve_bg_color": "",
+                      "margin_divider": "",
+                      "bg_color": "",
+                      "plantype_font": {
+                        "size": "20px",
+                        "bold": true,
+                        "underline": "",
+                        "italic": "",
+                        "family": {
+                          "label": "Roboto",
+                          "value": "Roboto",
+                          "clearable": true
+                        },
+                        "case": "",
+                        "spacing": "",
+                        "height": ""
+                      },
+                      "heading_margin": {
+                        "top": "",
+                        "left": "",
+                        "bottom": "",
+                        "right": ""
+                      },
+                      "body_margin": {
+                        "top": "",
+                        "left": "",
+                        "bottom": "",
+                        "right": ""
+                      },
+                      "border": true,
+                      "margin": {
+                        "top": "",
+                        "left": "",
+                        "bottom": "",
+                        "right": ""
+                      },
+                      "typography_options": "",
+                      "font": {
+                        "size": "",
+                        "bold": "",
+                        "underline": "",
+                        "italic": "",
+                        "family": "",
+                        "case": "",
+                        "spacing": "",
+                        "height": ""
+                      },
+                      "curency_font": {
+                        "size": "20px",
+                        "bold": true,
+                        "underline": "",
+                        "italic": "",
+                        "family": {
+                          "label": "Roboto",
+                          "value": "Roboto",
+                          "clearable": true
+                        },
+                        "case": "",
+                        "spacing": "",
+                        "height": ""
+                      },
+                      "border_color": "#2575e7",
+                      "padding": {
+                        "top": "40px",
+                        "left": "30px",
+                        "bottom": "60px",
+                        "right": "30px"
+                      },
+                      "global_option": "",
+                      "text_color": "",
+                      "description_margin": {
+                        "top": "",
+                        "left": "",
+                        "bottom": "",
+                        "right": ""
+                      },
+                      "footer_margin": {
+                        "top": "",
+                        "left": "",
+                        "bottom": "",
+                        "right": ""
+                      },
+                      "image_margin": {
+                        "top": "",
+                        "left": "",
+                        "bottom": "",
+                        "right": ""
+                      },
+                      "description_font": {
+                        "size": "",
+                        "bold": "",
+                        "underline": "",
+                        "italic": "",
+                        "family": "",
+                        "case": "",
+                        "spacing": "",
+                        "height": ""
+                      },
+                      "border_width": "1",
+                      "title_margin": {
+                        "top": "",
+                        "left": "",
+                        "bottom": "20px",
+                        "right": ""
+                      },
+                      "table_body_bg_color": "",
+                      "title_font": {
+                        "size": "",
+                        "bold": "",
+                        "underline": "",
+                        "italic": "",
+                        "family": "",
+                        "case": "",
+                        "spacing": "",
+                        "height": ""
+                      },
+                      "amount_font": {
+                        "size": "20px",
+                        "bold": true,
+                        "underline": "",
+                        "italic": "",
+                        "family": {
+                          "label": "Roboto",
+                          "value": "Roboto",
+                          "clearable": true
+                        },
+                        "case": "",
+                        "spacing": "",
+                        "height": ""
+                      },
+                      "table_heading_bg_color": "",
+                      "duration_color": "",
+                      "amount_color": "",
+                      "button_font": {
+                        "size": "",
+                        "bold": "",
+                        "underline": "",
+                        "italic": "",
+                        "family": "",
+                        "case": "",
+                        "spacing": "",
+                        "height": ""
+                      },
+                      "table_footer_bg_color": "",
+                      "title_color": "",
+                      "color_divider": "",
+                      "border_style": "solid"
+                    },
+                    "animation": {
+                      "hover_shadow_horizontal": 0,
+                      "hover_animation": 0,
+                      "hover_shadow": "",
+                      "hover_shadow_blur": 0,
+                      "animation": "fadeInUp",
+                      "hover_shadow_color": "",
+                      "animation_delay": 0.1,
+                      "hover_shadow_scale": 1,
+                      "hover_shadow_spread": 0,
+                      "hover_shadow_vertical": 0,
+                      "entrance": "",
+                      "hover": ""
+                    },
+                    "advanced": {
+                      "identifier": "",
+                      "label": "HostSite Pricing Table",
+                      "id": "qx-hostsite-pricing-table-40100",
+                      "class": ""
+                    }
+                  },
+                  "slug": "hostsite-pricing-table"
+                },
+                {
+                  "visibility": {
+                    "lg": false,
+                    "md": false,
+                    "sm": true,
+                    "xs": true
+                  },
+                  "form": {
+                    "general": {
+                      "divider": false,
+                      "color": "",
+                      "divider_style": "solid",
+                      "divider_width": 0,
+                      "divider_center": false,
+                      "height": "0"
+                    },
+                    "animation": {
+                      "hover_shadow_horizontal": 0,
+                      "hover_animation": 0,
+                      "hover_shadow": "",
+                      "hover_shadow_blur": 0,
+                      "animation": 0,
+                      "hover_shadow_color": "",
+                      "animation_delay": 0.1,
+                      "hover_shadow_scale": 1,
+                      "hover_shadow_spread": 0,
+                      "hover_shadow_vertical": 0,
+                      "entrance": "",
+                      "hover": ""
+                    },
+                    "advanced": {
+                      "identifier": "",
+                      "label": "Divider/Spacer",
+                      "id": "qx-divider-4754",
+                      "class": ""
+                    }
+                  },
+                  "slug": "divider"
+                }
+              ],
+              "size": {
+                "lg": 0.3333333333333333,
+                "md": 0.3333333333333333,
+                "sm": 1,
+                "xs": 1
+              }
+            },
+            {
+              "visibility": {
+                "lg": true,
+                "md": true,
+                "sm": true,
+                "xs": true
+              },
+              "form": {
+                "general": {
+                  "center_text": false,
+                  "bg_image": "",
+                  "image_repeat": "no-repeat",
+                  "image_position": "initial",
+                  "image_size": "initial",
+                  "bg_color": "",
+                  "margin": {
+                    "top": "",
+                    "left": "",
+                    "bottom": "",
+                    "right": ""
+                  },
+                  "padding": {
+                    "top": "",
+                    "left": "",
+                    "bottom": "",
+                    "right": ""
+                  }
+                },
+                "styles": {
+                  "box_shadow": false,
+                  "box_shadow_color": "",
+                  "box_shadow_blur": 0,
+                  "box_shadow_spread": 0,
+                  "box_shadow_horizontal": 0,
+                  "box_shadow_vertical": 0,
+                  "box_shadow_inset": false
+                },
+                "animation": {
+                  "hover_shadow_horizontal": 0,
+                  "hover_animation": 0,
+                  "hover_shadow": "",
+                  "hover_shadow_blur": 0,
+                  "animation": 0,
+                  "hover_shadow_color": "",
+                  "animation_delay": 0.1,
+                  "hover_shadow_scale": 1,
+                  "hover_shadow_spread": 0,
+                  "hover_shadow_vertical": 0,
+                  "entrance": "",
+                  "hover": ""
+                },
+                "advanced": {
+                  "identifier": "",
+                  "label": "Column",
+                  "id": "qx-column-9795",
+                  "class": ""
+                }
+              },
+              "slug": "column",
+              "children": [
+                {
+                  "visibility": {
+                    "lg": true,
+                    "md": true,
+                    "sm": true,
+                    "xs": true
+                  },
+                  "form": {
+                    "general": {
+                      "plantype": "Month",
+                      "image_packege": "images/themexpert/home/home1/pricing/2.png",
+                      "layout": 2,
+                      "packege": "VPS Hosting",
+                      "button": {
+                        "text": "See Plan",
+                        "url": "#",
+                        "target": false
+                      },
+                      "featurelist": [
+                        ""
+                      ],
+                      "btnstyle": "qx-btn-primary",
+                      "btntype": "regular",
+                      "amount": "$199",
+                      "description": "I think your best bet would be to start or join a startup. That’s been a reliable way to get rich for hundreds of years.",
+                      "curency": "From"
+                    },
+                    "styles": {
+                      "description_color": "",
+                      "cost_margin": {
+                        "top": "",
+                        "left": "",
+                        "bottom": "",
+                        "right": ""
+                      },
+                      "curency_color": "",
+                      "alignment": "center",
+                      "bg_color_divider": "",
+                      "border_radius": "0",
+                      "table_heading_curve_bg_color": "",
+                      "margin_divider": "",
+                      "bg_color": "",
+                      "plantype_font": {
+                        "size": "20px",
+                        "bold": true,
+                        "underline": "",
+                        "italic": "",
+                        "family": {
+                          "label": "Roboto",
+                          "value": "Roboto",
+                          "clearable": true
+                        },
+                        "case": "",
+                        "spacing": "",
+                        "height": ""
+                      },
+                      "heading_margin": {
+                        "top": "",
+                        "left": "",
+                        "bottom": "",
+                        "right": ""
+                      },
+                      "body_margin": {
+                        "top": "",
+                        "left": "",
+                        "bottom": "",
+                        "right": ""
+                      },
+                      "border": true,
+                      "margin": {
+                        "top": "",
+                        "left": "",
+                        "bottom": "",
+                        "right": ""
+                      },
+                      "typography_options": "",
+                      "font": {
+                        "size": "",
+                        "bold": "",
+                        "underline": "",
+                        "italic": "",
+                        "family": "",
+                        "case": "",
+                        "spacing": "",
+                        "height": ""
+                      },
+                      "curency_font": {
+                        "size": "20px",
+                        "bold": true,
+                        "underline": "",
+                        "italic": "",
+                        "family": {
+                          "label": "Roboto",
+                          "value": "Roboto",
+                          "clearable": true
+                        },
+                        "case": "",
+                        "spacing": "",
+                        "height": ""
+                      },
+                      "border_color": "#2575e7",
+                      "padding": {
+                        "top": "40px",
+                        "left": "30px",
+                        "bottom": "60px",
+                        "right": "30px"
+                      },
+                      "global_option": "",
+                      "text_color": "",
+                      "description_margin": {
+                        "top": "",
+                        "left": "",
+                        "bottom": "",
+                        "right": ""
+                      },
+                      "footer_margin": {
+                        "top": "",
+                        "left": "",
+                        "bottom": "",
+                        "right": ""
+                      },
+                      "image_margin": {
+                        "top": "",
+                        "left": "",
+                        "bottom": "",
+                        "right": ""
+                      },
+                      "description_font": {
+                        "size": "",
+                        "bold": "",
+                        "underline": "",
+                        "italic": "",
+                        "family": "",
+                        "case": "",
+                        "spacing": "",
+                        "height": ""
+                      },
+                      "border_width": "1",
+                      "title_margin": {
+                        "top": "",
+                        "left": "",
+                        "bottom": "20px",
+                        "right": ""
+                      },
+                      "table_body_bg_color": "",
+                      "title_font": {
+                        "size": "",
+                        "bold": "",
+                        "underline": "",
+                        "italic": "",
+                        "family": "",
+                        "case": "",
+                        "spacing": "",
+                        "height": ""
+                      },
+                      "amount_font": {
+                        "size": "20px",
+                        "bold": true,
+                        "underline": "",
+                        "italic": "",
+                        "family": {
+                          "label": "Roboto",
+                          "value": "Roboto",
+                          "clearable": true
+                        },
+                        "case": "",
+                        "spacing": "",
+                        "height": ""
+                      },
+                      "table_heading_bg_color": "",
+                      "duration_color": "",
+                      "amount_color": "",
+                      "button_font": {
+                        "size": "",
+                        "bold": "",
+                        "underline": "",
+                        "italic": "",
+                        "family": "",
+                        "case": "",
+                        "spacing": "",
+                        "height": ""
+                      },
+                      "table_footer_bg_color": "",
+                      "title_color": "",
+                      "color_divider": "",
+                      "border_style": "solid"
+                    },
+                    "animation": {
+                      "hover_shadow_horizontal": 0,
+                      "hover_animation": 0,
+                      "hover_shadow": "",
+                      "hover_shadow_blur": 0,
+                      "animation": "fadeInUp",
+                      "hover_shadow_color": "",
+                      "animation_delay": "0.3",
+                      "hover_shadow_scale": 1,
+                      "hover_shadow_spread": 0,
+                      "hover_shadow_vertical": 0,
+                      "entrance": "",
+                      "hover": ""
+                    },
+                    "advanced": {
+                      "identifier": "",
+                      "label": "HostSite Pricing Table",
+                      "id": "qx-hostsite-pricing-table-41150",
+                      "class": ""
+                    }
+                  },
+                  "slug": "hostsite-pricing-table"
+                },
+                {
+                  "visibility": {
+                    "lg": false,
+                    "md": false,
+                    "sm": true,
+                    "xs": true
+                  },
+                  "form": {
+                    "general": {
+                      "divider": false,
+                      "color": "",
+                      "divider_style": "solid",
+                      "divider_width": 0,
+                      "divider_center": false,
+                      "height": "0"
+                    },
+                    "animation": {
+                      "hover_shadow_horizontal": 0,
+                      "hover_animation": 0,
+                      "hover_shadow": "",
+                      "hover_shadow_blur": 0,
+                      "animation": 0,
+                      "hover_shadow_color": "",
+                      "animation_delay": 0.1,
+                      "hover_shadow_scale": 1,
+                      "hover_shadow_spread": 0,
+                      "hover_shadow_vertical": 0,
+                      "entrance": "",
+                      "hover": ""
+                    },
+                    "advanced": {
+                      "identifier": "",
+                      "label": "Divider/Spacer",
+                      "id": "qx-divider-86102",
+                      "class": ""
+                    }
+                  },
+                  "slug": "divider"
+                }
+              ],
+              "size": {
+                "lg": 0.3333333333333333,
+                "md": 0.3333333333333333,
+                "sm": 1,
+                "xs": 1
+              }
+            },
+            {
+              "visibility": {
+                "lg": true,
+                "md": true,
+                "sm": true,
+                "xs": true
+              },
+              "form": {
+                "general": {
+                  "center_text": false,
+                  "bg_image": "",
+                  "image_repeat": "no-repeat",
+                  "image_position": "initial",
+                  "image_size": "initial",
+                  "bg_color": "",
+                  "margin": {
+                    "top": "",
+                    "left": "",
+                    "bottom": "",
+                    "right": ""
+                  },
+                  "padding": {
+                    "top": "",
+                    "left": "",
+                    "bottom": "",
+                    "right": ""
+                  }
+                },
+                "styles": {
+                  "box_shadow": false,
+                  "box_shadow_color": "",
+                  "box_shadow_blur": 0,
+                  "box_shadow_spread": 0,
+                  "box_shadow_horizontal": 0,
+                  "box_shadow_vertical": 0,
+                  "box_shadow_inset": false
+                },
+                "animation": {
+                  "hover_shadow_horizontal": 0,
+                  "hover_animation": 0,
+                  "hover_shadow": "",
+                  "hover_shadow_blur": 0,
+                  "animation": 0,
+                  "hover_shadow_color": "",
+                  "animation_delay": 0.1,
+                  "hover_shadow_scale": 1,
+                  "hover_shadow_spread": 0,
+                  "hover_shadow_vertical": 0,
+                  "entrance": "",
+                  "hover": ""
+                },
+                "advanced": {
+                  "identifier": "",
+                  "label": "Column",
+                  "id": "qx-column-2597",
+                  "class": ""
+                }
+              },
+              "slug": "column",
+              "children": [
+                {
+                  "visibility": {
+                    "lg": true,
+                    "md": true,
+                    "sm": true,
+                    "xs": true
+                  },
+                  "form": {
+                    "general": {
+                      "plantype": "Month",
+                      "image_packege": "images/themexpert/home/home1/pricing/3.png",
+                      "layout": 2,
+                      "packege": "VPS Hosting",
+                      "button": {
+                        "text": "See Plan",
+                        "url": "#",
+                        "target": false
+                      },
+                      "featurelist": [
+                        ""
+                      ],
+                      "btnstyle": "qx-btn-primary",
+                      "btntype": "regular",
+                      "amount": "$299",
+                      "description": "I think your best bet would be to start or join a startup. That’s been a reliable way to get rich for hundreds of years.",
+                      "curency": "From"
+                    },
+                    "styles": {
+                      "description_color": "",
+                      "cost_margin": {
+                        "top": "",
+                        "left": "",
+                        "bottom": "",
+                        "right": ""
+                      },
+                      "curency_color": "",
+                      "alignment": "center",
+                      "bg_color_divider": "",
+                      "border_radius": "0",
+                      "table_heading_curve_bg_color": "",
+                      "margin_divider": "",
+                      "bg_color": "",
+                      "plantype_font": {
+                        "size": "20px",
+                        "bold": true,
+                        "underline": "",
+                        "italic": "",
+                        "family": {
+                          "label": "Roboto",
+                          "value": "Roboto",
+                          "clearable": true
+                        },
+                        "case": "",
+                        "spacing": "",
+                        "height": ""
+                      },
+                      "heading_margin": {
+                        "top": "",
+                        "left": "",
+                        "bottom": "",
+                        "right": ""
+                      },
+                      "body_margin": {
+                        "top": "",
+                        "left": "",
+                        "bottom": "",
+                        "right": ""
+                      },
+                      "border": true,
+                      "margin": {
+                        "top": "",
+                        "left": "",
+                        "bottom": "",
+                        "right": ""
+                      },
+                      "typography_options": "",
+                      "font": {
+                        "size": "",
+                        "bold": "",
+                        "underline": "",
+                        "italic": "",
+                        "family": "",
+                        "case": "",
+                        "spacing": "",
+                        "height": ""
+                      },
+                      "curency_font": {
+                        "size": "20px",
+                        "bold": true,
+                        "underline": "",
+                        "italic": "",
+                        "family": {
+                          "label": "Roboto",
+                          "value": "Roboto",
+                          "clearable": true
+                        },
+                        "case": "",
+                        "spacing": "",
+                        "height": ""
+                      },
+                      "border_color": "#2575e7",
+                      "padding": {
+                        "top": "40px",
+                        "left": "30px",
+                        "bottom": "60px",
+                        "right": "30px"
+                      },
+                      "global_option": "",
+                      "text_color": "",
+                      "description_margin": {
+                        "top": "",
+                        "left": "",
+                        "bottom": "",
+                        "right": ""
+                      },
+                      "footer_margin": {
+                        "top": "",
+                        "left": "",
+                        "bottom": "",
+                        "right": ""
+                      },
+                      "image_margin": {
+                        "top": "",
+                        "left": "",
+                        "bottom": "",
+                        "right": ""
+                      },
+                      "description_font": {
+                        "size": "",
+                        "bold": "",
+                        "underline": "",
+                        "italic": "",
+                        "family": "",
+                        "case": "",
+                        "spacing": "",
+                        "height": ""
+                      },
+                      "border_width": "1",
+                      "title_margin": {
+                        "top": "",
+                        "left": "",
+                        "bottom": "20px",
+                        "right": ""
+                      },
+                      "table_body_bg_color": "",
+                      "title_font": {
+                        "size": "",
+                        "bold": "",
+                        "underline": "",
+                        "italic": "",
+                        "family": "",
+                        "case": "",
+                        "spacing": "",
+                        "height": ""
+                      },
+                      "amount_font": {
+                        "size": "20px",
+                        "bold": true,
+                        "underline": "",
+                        "italic": "",
+                        "family": {
+                          "label": "Roboto",
+                          "value": "Roboto",
+                          "clearable": true
+                        },
+                        "case": "",
+                        "spacing": "",
+                        "height": ""
+                      },
+                      "table_heading_bg_color": "",
+                      "duration_color": "",
+                      "amount_color": "",
+                      "button_font": {
+                        "size": "",
+                        "bold": "",
+                        "underline": "",
+                        "italic": "",
+                        "family": "",
+                        "case": "",
+                        "spacing": "",
+                        "height": ""
+                      },
+                      "table_footer_bg_color": "",
+                      "title_color": "",
+                      "color_divider": "",
+                      "border_style": "solid"
+                    },
+                    "animation": {
+                      "hover_shadow_horizontal": 0,
+                      "hover_animation": 0,
+                      "hover_shadow": "",
+                      "hover_shadow_blur": 0,
+                      "animation": "fadeInUp",
+                      "hover_shadow_color": "",
+                      "animation_delay": "0.5",
+                      "hover_shadow_scale": 1,
+                      "hover_shadow_spread": 0,
+                      "hover_shadow_vertical": 0,
+                      "entrance": "",
+                      "hover": ""
+                    },
+                    "advanced": {
+                      "identifier": "",
+                      "label": "HostSite Pricing Table",
+                      "id": "qx-hostsite-pricing-table-88419",
+                      "class": ""
+                    }
+                  },
+                  "slug": "hostsite-pricing-table"
+                }
+              ],
+              "size": {
+                "lg": 0.3333333333333333,
+                "md": 0.3333333333333333,
+                "sm": 1,
+                "xs": 1
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "visibility": {
+        "lg": true,
+        "md": true,
+        "sm": false,
+        "xs": false
+      },
+      "form": {
+        "general": {
+          "container": true,
+          "bg_image": "",
+          "image_size": "initial",
+          "bg_color": "#fafafa",
+          "parallax_styles": "",
+          "background_image": "",
+          "image_position": "initial",
+          "element_style": "",
+          "parallax_x": 0,
+          "padding": {
+            "top": "100px",
+            "left": "",
+            "bottom": "100px",
+            "right": ""
+          },
+          "bg_parallax": false,
+          "parallax_y": -250,
+          "bg_overlay": false,
+          "parallax_breakpoint": 0,
+          "stretch_mode": false,
+          "image_repeat": "no-repeat"
+        },
+        "styles": {
+          "box_shadow": false,
+          "box_shadow_color": "",
+          "box_shadow_blur": 0,
+          "box_shadow_spread": 0,
+          "box_shadow_horizontal": 0,
+          "box_shadow_vertical": 0,
+          "box_shadow_inset": false
+        },
+        "animation": {
+          "hover_shadow_horizontal": 0,
+          "hover_animation": 0,
+          "hover_shadow": "",
+          "hover_shadow_blur": 0,
+          "animation": 0,
+          "hover_shadow_color": "",
+          "animation_delay": 0.1,
+          "hover_shadow_scale": 1,
+          "hover_shadow_spread": 0,
+          "hover_shadow_vertical": 0,
+          "entrance": "",
+          "hover": ""
+        },
+        "advanced": {
+          "identifier": "",
+          "label": "Section 2",
+          "id": "qx-section-20846",
+          "class": ""
+        }
+      },
+      "slug": "section",
+      "children": [
+        {
+          "visibility": {
+            "lg": true,
+            "md": true,
+            "sm": true,
+            "xs": true
+          },
+          "form": {
+            "general": {
+              "container": false,
+              "bg_image": "",
+              "equal_column": false,
+              "image_size": "initial",
+              "bg_color": "",
+              "parallax_styles": "",
+              "background_image": "",
+              "image_position": "initial",
+              "margin": {
+                "top": "",
+                "left": "",
+                "bottom": "",
+                "right": ""
+              },
+              "element_style": "",
+              "parallax_x": 0,
+              "padding": {
+                "top": "",
+                "left": "",
+                "bottom": "",
+                "right": ""
+              },
+              "bg_parallax": false,
+              "parallax_y": -250,
+              "bg_overlay": false,
+              "parallax_breakpoint": 0,
+              "image_repeat": "no-repeat"
+            },
+            "styles": {
+              "box_shadow": false,
+              "box_shadow_color": "",
+              "box_shadow_blur": 0,
+              "box_shadow_spread": 0,
+              "box_shadow_horizontal": 0,
+              "box_shadow_vertical": 0,
+              "box_shadow_inset": false
+            },
+            "animation": {
+              "hover_shadow_horizontal": 0,
+              "hover_animation": 0,
+              "hover_shadow": "",
+              "hover_shadow_blur": 0,
+              "animation": 0,
+              "hover_shadow_color": "",
+              "animation_delay": 0.1,
+              "hover_shadow_scale": 1,
+              "hover_shadow_spread": 0,
+              "hover_shadow_vertical": 0,
+              "entrance": "",
+              "hover": ""
+            },
+            "advanced": {
+              "identifier": "",
+              "label": "Row",
+              "id": "qx-row-56854",
+              "class": ""
+            }
+          },
+          "slug": "row",
+          "children": [
+            {
+              "visibility": {
+                "lg": true,
+                "md": true,
+                "sm": true,
+                "xs": true
+              },
+              "form": {
+                "general": {
+                  "center_text": false,
+                  "bg_image": "",
+                  "image_repeat": "no-repeat",
+                  "image_position": "initial",
+                  "image_size": "initial",
+                  "bg_color": "",
+                  "margin": {
+                    "top": "",
+                    "left": "",
+                    "bottom": "",
+                    "right": ""
+                  },
+                  "padding": {
+                    "top": "",
+                    "left": "",
+                    "bottom": "",
+                    "right": ""
+                  }
+                },
+                "styles": {
+                  "box_shadow": false,
+                  "box_shadow_color": "",
+                  "box_shadow_blur": 0,
+                  "box_shadow_spread": 0,
+                  "box_shadow_horizontal": 0,
+                  "box_shadow_vertical": 0,
+                  "box_shadow_inset": false
+                },
+                "animation": {
+                  "hover_shadow_horizontal": 0,
+                  "hover_animation": 0,
+                  "hover_shadow": "",
+                  "hover_shadow_blur": 0,
+                  "animation": "fadeInLeft",
+                  "hover_shadow_color": "",
+                  "animation_delay": 0.1,
+                  "hover_shadow_scale": 1,
+                  "hover_shadow_spread": 0,
+                  "hover_shadow_vertical": 0,
+                  "entrance": "",
+                  "hover": ""
+                },
+                "advanced": {
+                  "identifier": "",
+                  "label": "Column",
+                  "id": "qx-column-47855",
+                  "class": ""
+                }
+              },
+              "slug": "column",
+              "children": [
+                {
+                  "visibility": {
+                    "lg": true,
+                    "md": true,
+                    "sm": true,
+                    "xs": true
+                  },
+                  "form": {
+                    "general": {
+                      "title_text": "<span>Get Started!</span> Today's Offers",
+                      "paragraph_text": "<p>Argumentum adversarium pro eu, ex has iudico oratio. Vidit <span style=\"color: #e74c3c;\">debitis</span> sit at, eum hinc inermis no. Vix consul commune ne, ad his <span style=\"color: #e74c3c;\">legendos tincidunt</span>. Vel saepe cotidieque ei. Ne nec semper legimus forensibus, vix id aliquip alterum, lobortis sententiae. Has omnis erant eu. Primis <span style=\"color: #42d6c1;\">alterum dissentiunt ea ius</span>, quo ad aeque epicuri expetendis.</p>",
+                      "subtitle_position": "after_title",
+                      "title_tag": "h2",
+                      "alignment": "left"
+                    },
+                    "styles": {
+                      "paragraph_font": {
+                        "size": "",
+                        "bold": "",
+                        "underline": "",
+                        "italic": "",
+                        "family": "",
+                        "case": "",
+                        "spacing": "",
+                        "height": ""
+                      },
+                      "title_span_note": "",
+                      "paragraph_text_color": "",
+                      "title_style": "",
+                      "subtitle_style": "",
+                      "margin": {
+                        "top": "",
+                        "left": "",
+                        "bottom": "",
+                        "right": ""
+                      },
+                      "paragraph_text_margin": {
+                        "top": "",
+                        "left": "",
+                        "bottom": "",
+                        "right": ""
+                      },
+                      "padding": {
+                        "top": "",
+                        "left": "",
+                        "bottom": "",
+                        "right": ""
+                      },
+                      "title_span_color": "#267ae9",
+                      "title_font": {
+                        "size": "40px",
+                        "bold": true,
+                        "underline": "",
+                        "italic": "",
+                        "family": {
+                          "label": "Roboto",
+                          "value": "Roboto",
+                          "clearable": true
+                        },
+                        "case": "",
+                        "spacing": "",
+                        "height": ""
+                      },
+                      "title_text_color": "",
+                      "title_text_margin": {
+                        "top": "",
+                        "left": "",
+                        "bottom": "30px",
+                        "right": ""
+                      },
+                      "element": "",
+                      "title_span_font": {
+                        "size": "",
+                        "bold": "",
+                        "underline": "",
+                        "italic": "",
+                        "family": "",
+                        "case": "",
+                        "spacing": "",
+                        "height": ""
+                      }
+                    },
+                    "animation": {
+                      "hover_shadow_horizontal": 0,
+                      "hover_animation": 0,
+                      "hover_shadow": "",
+                      "hover_shadow_blur": 0,
+                      "animation": 0,
+                      "hover_shadow_color": "",
+                      "animation_delay": 0.1,
+                      "hover_shadow_scale": 1,
+                      "hover_shadow_spread": 0,
+                      "hover_shadow_vertical": 0,
+                      "entrance": "",
+                      "hover": ""
+                    },
+                    "advanced": {
+                      "identifier": "",
+                      "label": "Heading",
+                      "id": "qx-heading-70857",
+                      "class": ""
+                    }
+                  },
+                  "slug": "heading"
+                }
+              ],
+              "size": {
+                "lg": 0.5833333333333334,
+                "md": 0.5833333333333334,
+                "sm": 1,
+                "xs": 1
+              }
+            },
+            {
+              "visibility": {
+                "lg": true,
+                "md": true,
+                "sm": true,
+                "xs": true
+              },
+              "form": {
+                "general": {
+                  "center_text": false,
+                  "bg_image": "",
+                  "image_repeat": "no-repeat",
+                  "image_position": "initial",
+                  "image_size": "initial",
+                  "bg_color": "",
+                  "margin": {
+                    "top": "",
+                    "left": "",
+                    "bottom": "",
+                    "right": ""
+                  },
+                  "padding": {
+                    "top": "",
+                    "left": "",
+                    "bottom": "",
+                    "right": ""
+                  }
+                },
+                "styles": {
+                  "box_shadow": false,
+                  "box_shadow_color": "",
+                  "box_shadow_blur": 0,
+                  "box_shadow_spread": 0,
+                  "box_shadow_horizontal": 0,
+                  "box_shadow_vertical": 0,
+                  "box_shadow_inset": false
+                },
+                "animation": {
+                  "hover_shadow_horizontal": 0,
+                  "hover_animation": 0,
+                  "hover_shadow": "",
+                  "hover_shadow_blur": 0,
+                  "animation": 0,
+                  "hover_shadow_color": "",
+                  "animation_delay": 0.1,
+                  "hover_shadow_scale": 1,
+                  "hover_shadow_spread": 0,
+                  "hover_shadow_vertical": 0,
+                  "entrance": "",
+                  "hover": ""
+                },
+                "advanced": {
+                  "identifier": "",
+                  "label": "Column",
+                  "id": "qx-column-90858",
+                  "class": ""
+                }
+              },
+              "slug": "column",
+              "children": [
+                {
+                  "visibility": {
+                    "lg": true,
+                    "md": true,
+                    "sm": true,
+                    "xs": true
+                  },
+                  "form": {
+                    "general": {
+                      "image": "images/themexpert/pages/domain/globe-cpu.png",
+                      "alt_text": "",
+                      "title_text": "",
+                      "responsive": false,
+                      "alignment": "center",
+                      "link": {
+                        "url": null,
+                        "target": null
+                      },
+                      "image_width": "",
+                      "image_height": ""
+                    },
+                    "styles": {
+                      "open_lightbox": false,
+                      "margin": {
+                        "top": "",
+                        "left": "",
+                        "bottom": "-135px",
+                        "right": ""
+                      },
+                      "border": false,
+                      "border_width": 2,
+                      "border_radius": 3,
+                      "border_style": "solid",
+                      "border_color": "",
+                      "border_hover_color": ""
+                    },
+                    "animation": {
+                      "hover_shadow_horizontal": 0,
+                      "hover_animation": 0,
+                      "hover_shadow": "",
+                      "hover_shadow_blur": 0,
+                      "animation": "fadeInRight",
+                      "hover_shadow_color": "",
+                      "animation_delay": 0.1,
+                      "hover_shadow_scale": 1,
+                      "hover_shadow_spread": 0,
+                      "hover_shadow_vertical": 0,
+                      "entrance": "",
+                      "hover": ""
+                    },
+                    "advanced": {
+                      "identifier": "",
+                      "label": "Image",
+                      "id": "qx-image-4859",
+                      "class": ""
+                    }
+                  },
+                  "slug": "image"
+                }
+              ],
+              "size": {
+                "lg": 0.4166666666666667,
+                "md": 0.4166666666666667,
+                "sm": 1,
+                "xs": 1
+              }
+            }
+          ]
+        },
+        {
+          "visibility": {
+            "lg": true,
+            "md": true,
+            "sm": true,
+            "xs": true
+          },
+          "form": {
+            "general": {
+              "container": false,
+              "bg_image": "",
+              "equal_column": false,
+              "image_size": "initial",
+              "bg_color": "",
+              "parallax_styles": "",
+              "background_image": "",
+              "image_position": "initial",
+              "margin": {
+                "top": "",
+                "left": "",
+                "bottom": "",
+                "right": ""
+              },
+              "element_style": "",
+              "parallax_x": 0,
+              "padding": {
+                "top": "",
+                "left": "",
+                "bottom": "",
+                "right": ""
+              },
+              "bg_parallax": false,
+              "parallax_y": -250,
+              "bg_overlay": false,
+              "parallax_breakpoint": 0,
+              "image_repeat": "no-repeat"
+            },
+            "styles": {
+              "box_shadow": false,
+              "box_shadow_color": "",
+              "box_shadow_blur": 0,
+              "box_shadow_spread": 0,
+              "box_shadow_horizontal": 0,
+              "box_shadow_vertical": 0,
+              "box_shadow_inset": false
+            },
+            "animation": {
+              "hover_shadow_horizontal": 0,
+              "hover_animation": 0,
+              "hover_shadow": "",
+              "hover_shadow_blur": 0,
+              "animation": "fadeInLeft",
+              "hover_shadow_color": "",
+              "animation_delay": 0.1,
+              "hover_shadow_scale": 1,
+              "hover_shadow_spread": 0,
+              "hover_shadow_vertical": 0,
+              "entrance": "",
+              "hover": ""
+            },
+            "advanced": {
+              "identifier": "",
+              "label": "Row",
+              "id": "qx-row-89860",
+              "class": ""
+            }
+          },
+          "slug": "row",
+          "children": [
+            {
+              "visibility": {
+                "lg": true,
+                "md": true,
+                "sm": true,
+                "xs": true
+              },
+              "form": {
+                "general": {
+                  "center_text": false,
+                  "bg_image": "",
+                  "image_repeat": "no-repeat",
+                  "image_position": "initial",
+                  "image_size": "initial",
+                  "bg_color": "",
+                  "margin": {
+                    "top": "-72px",
+                    "left": "",
+                    "bottom": "",
+                    "right": ""
+                  },
+                  "padding": {
+                    "top": "",
+                    "left": "",
+                    "bottom": "",
+                    "right": ""
+                  }
+                },
+                "styles": {
+                  "box_shadow": false,
+                  "box_shadow_color": "",
+                  "box_shadow_blur": 0,
+                  "box_shadow_spread": 0,
+                  "box_shadow_horizontal": 0,
+                  "box_shadow_vertical": 0,
+                  "box_shadow_inset": false
+                },
+                "animation": {
+                  "hover_shadow_horizontal": 0,
+                  "hover_animation": 0,
+                  "hover_shadow": "",
+                  "hover_shadow_blur": 0,
+                  "animation": 0,
+                  "hover_shadow_color": "",
+                  "animation_delay": 0.1,
+                  "hover_shadow_scale": 1,
+                  "hover_shadow_spread": 0,
+                  "hover_shadow_vertical": 0,
+                  "entrance": "",
+                  "hover": ""
+                },
+                "advanced": {
+                  "identifier": "",
+                  "label": "Column",
+                  "id": "qx-column-41861",
+                  "class": ""
+                }
+              },
+              "slug": "column",
+              "children": [
+                {
+                  "visibility": {
+                    "lg": true,
+                    "md": true,
+                    "sm": true,
+                    "xs": true
+                  },
+                  "form": {
+                    "general": {
+                      "alignment": "left",
+                      "placement": "left",
+                      "image_alt_text": "",
+                      "title_tag": "h3",
+                      "title": "Unlimited Disk Space",
+                      "content": "",
+                      "icon": "",
+                      "link": {
+                        "url": null,
+                        "target": null
+                      },
+                      "image": "images/themexpert/home/home1/icon/check.png",
+                      "icon_enabled": false,
+                      "link_type": "only_title"
+                    },
+                    "styles": {
+                      "header_margin": {
+                        "top": "4px",
+                        "left": "",
+                        "bottom": "",
+                        "right": ""
+                      },
+                      "bg_image": "",
+                      "box_shadow_vertical": 0,
+                      "header_font": {
+                        "size": "20px",
+                        "bold": "",
+                        "underline": "",
+                        "italic": "",
+                        "family": "",
+                        "case": "",
+                        "spacing": "",
+                        "height": ""
+                      },
+                      "border_radius": 3,
+                      "image_size": "initial",
+                      "blurb_styles": "",
+                      "bg_hover_color": "",
+                      "body_color": "",
+                      "icon_styles": "",
+                      "content_styles": "",
+                      "title_styles": "",
+                      "media_margin": {
+                        "top": "",
+                        "left": "",
+                        "bottom": "",
+                        "right": ""
+                      },
+                      "bg_color": "",
+                      "icon_font_size": 80,
+                      "border": false,
+                      "body_font": {
+                        "size": "",
+                        "bold": "",
+                        "underline": "",
+                        "italic": "",
+                        "family": "",
+                        "case": "",
+                        "spacing": "",
+                        "height": ""
+                      },
+                      "border_hover_color": "",
+                      "image_position": "initial",
+                      "margin": {
+                        "top": "",
+                        "left": "",
+                        "bottom": "",
+                        "right": ""
+                      },
+                      "header_hover_color": "",
+                      "box_shadow_horizontal": 0,
+                      "border_color": "",
+                      "padding": {
+                        "top": "",
+                        "left": "",
+                        "bottom": "",
+                        "right": ""
+                      },
+                      "header_color": "",
+                      "box_shadow_inset": false,
+                      "box_shadow_blur": 0,
+                      "border_width": 2,
+                      "box_shadow": false,
+                      "media_style": "",
+                      "box_shadow_color": "",
+                      "border_boxshadow": "",
+                      "icon_color": "",
+                      "box_shadow_spread": 0,
+                      "border_style": "solid",
+                      "image_repeat": "no-repeat"
+                    },
+                    "animation": {
+                      "hover_shadow_horizontal": 0,
+                      "hover_animation": 0,
+                      "hover_shadow": "",
+                      "hover_shadow_blur": 0,
+                      "animation": 0,
+                      "hover_shadow_color": "",
+                      "animation_delay": 0.1,
+                      "hover_shadow_scale": 1,
+                      "hover_shadow_spread": 0,
+                      "hover_shadow_vertical": 0,
+                      "animation_apply": 0,
+                      "entrance": "",
+                      "hover": ""
+                    },
+                    "advanced": {
+                      "identifier": "",
+                      "label": "Blurb",
+                      "id": "qx-blurb-78862",
+                      "class": ""
+                    }
+                  },
+                  "slug": "blurb"
+                },
+                {
+                  "visibility": {
+                    "lg": true,
+                    "md": true,
+                    "sm": true,
+                    "xs": true
+                  },
+                  "form": {
+                    "general": {
+                      "alignment": "left",
+                      "placement": "left",
+                      "image_alt_text": "",
+                      "title_tag": "h3",
+                      "title": "Unlimited Domains",
+                      "content": "",
+                      "icon": "",
+                      "link": {
+                        "url": null,
+                        "target": null
+                      },
+                      "image": "images/themexpert/home/home1/icon/check.png",
+                      "icon_enabled": false,
+                      "link_type": "only_title"
+                    },
+                    "styles": {
+                      "header_margin": {
+                        "top": "4px",
+                        "left": "",
+                        "bottom": "",
+                        "right": ""
+                      },
+                      "bg_image": "",
+                      "box_shadow_vertical": 0,
+                      "header_font": {
+                        "size": "20px",
+                        "bold": "",
+                        "underline": "",
+                        "italic": "",
+                        "family": "",
+                        "case": "",
+                        "spacing": "",
+                        "height": ""
+                      },
+                      "border_radius": 3,
+                      "image_size": "initial",
+                      "blurb_styles": "",
+                      "bg_hover_color": "",
+                      "body_color": "",
+                      "icon_styles": "",
+                      "content_styles": "",
+                      "title_styles": "",
+                      "media_margin": {
+                        "top": "",
+                        "left": "",
+                        "bottom": "",
+                        "right": ""
+                      },
+                      "bg_color": "",
+                      "icon_font_size": 80,
+                      "border": false,
+                      "body_font": {
+                        "size": "",
+                        "bold": "",
+                        "underline": "",
+                        "italic": "",
+                        "family": "",
+                        "case": "",
+                        "spacing": "",
+                        "height": ""
+                      },
+                      "border_hover_color": "",
+                      "image_position": "initial",
+                      "margin": {
+                        "top": "",
+                        "left": "",
+                        "bottom": "",
+                        "right": ""
+                      },
+                      "header_hover_color": "",
+                      "box_shadow_horizontal": 0,
+                      "border_color": "",
+                      "padding": {
+                        "top": "",
+                        "left": "",
+                        "bottom": "",
+                        "right": ""
+                      },
+                      "header_color": "",
+                      "box_shadow_inset": false,
+                      "box_shadow_blur": 0,
+                      "border_width": 2,
+                      "box_shadow": false,
+                      "media_style": "",
+                      "box_shadow_color": "",
+                      "border_boxshadow": "",
+                      "icon_color": "",
+                      "box_shadow_spread": 0,
+                      "border_style": "solid",
+                      "image_repeat": "no-repeat"
+                    },
+                    "animation": {
+                      "hover_shadow_horizontal": 0,
+                      "hover_animation": 0,
+                      "hover_shadow": "",
+                      "hover_shadow_blur": 0,
+                      "animation": 0,
+                      "hover_shadow_color": "",
+                      "animation_delay": 0.1,
+                      "hover_shadow_scale": 1,
+                      "hover_shadow_spread": 0,
+                      "hover_shadow_vertical": 0,
+                      "animation_apply": 0,
+                      "entrance": "",
+                      "hover": ""
+                    },
+                    "advanced": {
+                      "identifier": "",
+                      "label": "Blurb",
+                      "id": "qx-blurb-9863",
+                      "class": ""
+                    }
+                  },
+                  "slug": "blurb"
+                }
+              ],
+              "size": {
+                "lg": 0.3333333333333333,
+                "md": 0.3333333333333333,
+                "sm": 0.5,
+                "xs": 1
+              }
+            },
+            {
+              "visibility": {
+                "lg": true,
+                "md": true,
+                "sm": true,
+                "xs": true
+              },
+              "form": {
+                "general": {
+                  "center_text": false,
+                  "bg_image": "",
+                  "image_repeat": "no-repeat",
+                  "image_position": "initial",
+                  "image_size": "initial",
+                  "bg_color": "",
+                  "margin": {
+                    "top": "-72px",
+                    "left": "",
+                    "bottom": "",
+                    "right": ""
+                  },
+                  "padding": {
+                    "top": "",
+                    "left": "",
+                    "bottom": "",
+                    "right": ""
+                  }
+                },
+                "styles": {
+                  "box_shadow": false,
+                  "box_shadow_color": "",
+                  "box_shadow_blur": 0,
+                  "box_shadow_spread": 0,
+                  "box_shadow_horizontal": 0,
+                  "box_shadow_vertical": 0,
+                  "box_shadow_inset": false
+                },
+                "animation": {
+                  "hover_shadow_horizontal": 0,
+                  "hover_animation": 0,
+                  "hover_shadow": "",
+                  "hover_shadow_blur": 0,
+                  "animation": 0,
+                  "hover_shadow_color": "",
+                  "animation_delay": 0.1,
+                  "hover_shadow_scale": 1,
+                  "hover_shadow_spread": 0,
+                  "hover_shadow_vertical": 0,
+                  "entrance": "",
+                  "hover": ""
+                },
+                "advanced": {
+                  "identifier": "",
+                  "label": "Column",
+                  "id": "qx-column-72864",
+                  "class": ""
+                }
+              },
+              "slug": "column",
+              "children": [
+                {
+                  "visibility": {
+                    "lg": true,
+                    "md": true,
+                    "sm": true,
+                    "xs": true
+                  },
+                  "form": {
+                    "general": {
+                      "alignment": "left",
+                      "placement": "left",
+                      "image_alt_text": "",
+                      "title_tag": "h3",
+                      "title": "Free Domain Registration",
+                      "content": "",
+                      "icon": "",
+                      "link": {
+                        "url": null,
+                        "target": null
+                      },
+                      "image": "images/themexpert/home/home1/icon/check.png",
+                      "icon_enabled": false,
+                      "link_type": "only_title"
+                    },
+                    "styles": {
+                      "header_margin": {
+                        "top": "4px",
+                        "left": "",
+                        "bottom": "",
+                        "right": ""
+                      },
+                      "bg_image": "",
+                      "box_shadow_vertical": 0,
+                      "header_font": {
+                        "size": "20px",
+                        "bold": "",
+                        "underline": "",
+                        "italic": "",
+                        "family": "",
+                        "case": "",
+                        "spacing": "",
+                        "height": ""
+                      },
+                      "border_radius": 3,
+                      "image_size": "initial",
+                      "blurb_styles": "",
+                      "bg_hover_color": "",
+                      "body_color": "",
+                      "icon_styles": "",
+                      "content_styles": "",
+                      "title_styles": "",
+                      "media_margin": {
+                        "top": "",
+                        "left": "",
+                        "bottom": "",
+                        "right": ""
+                      },
+                      "bg_color": "",
+                      "icon_font_size": 80,
+                      "border": false,
+                      "body_font": {
+                        "size": "",
+                        "bold": "",
+                        "underline": "",
+                        "italic": "",
+                        "family": "",
+                        "case": "",
+                        "spacing": "",
+                        "height": ""
+                      },
+                      "border_hover_color": "",
+                      "image_position": "initial",
+                      "margin": {
+                        "top": "",
+                        "left": "",
+                        "bottom": "",
+                        "right": ""
+                      },
+                      "header_hover_color": "",
+                      "box_shadow_horizontal": 0,
+                      "border_color": "",
+                      "padding": {
+                        "top": "",
+                        "left": "",
+                        "bottom": "",
+                        "right": ""
+                      },
+                      "header_color": "",
+                      "box_shadow_inset": false,
+                      "box_shadow_blur": 0,
+                      "border_width": 2,
+                      "box_shadow": false,
+                      "media_style": "",
+                      "box_shadow_color": "",
+                      "border_boxshadow": "",
+                      "icon_color": "",
+                      "box_shadow_spread": 0,
+                      "border_style": "solid",
+                      "image_repeat": "no-repeat"
+                    },
+                    "animation": {
+                      "hover_shadow_horizontal": 0,
+                      "hover_animation": 0,
+                      "hover_shadow": "",
+                      "hover_shadow_blur": 0,
+                      "animation": 0,
+                      "hover_shadow_color": "",
+                      "animation_delay": 0.1,
+                      "hover_shadow_scale": 1,
+                      "hover_shadow_spread": 0,
+                      "hover_shadow_vertical": 0,
+                      "animation_apply": 0,
+                      "entrance": "",
+                      "hover": ""
+                    },
+                    "advanced": {
+                      "identifier": "",
+                      "label": "Blurb",
+                      "id": "qx-blurb-13865",
+                      "class": ""
+                    }
+                  },
+                  "slug": "blurb"
+                },
+                {
+                  "visibility": {
+                    "lg": true,
+                    "md": true,
+                    "sm": true,
+                    "xs": true
+                  },
+                  "form": {
+                    "general": {
+                      "alignment": "left",
+                      "placement": "left",
+                      "image_alt_text": "",
+                      "title_tag": "h3",
+                      "title": "99.99% Uptime Guarantee",
+                      "content": "",
+                      "icon": "",
+                      "link": {
+                        "url": null,
+                        "target": null
+                      },
+                      "image": "images/themexpert/home/home1/icon/check.png",
+                      "icon_enabled": false,
+                      "link_type": "only_title"
+                    },
+                    "styles": {
+                      "header_margin": {
+                        "top": "4px",
+                        "left": "",
+                        "bottom": "",
+                        "right": ""
+                      },
+                      "bg_image": "",
+                      "box_shadow_vertical": 0,
+                      "header_font": {
+                        "size": "20px",
+                        "bold": "",
+                        "underline": "",
+                        "italic": "",
+                        "family": "",
+                        "case": "",
+                        "spacing": "",
+                        "height": ""
+                      },
+                      "border_radius": 3,
+                      "image_size": "initial",
+                      "blurb_styles": "",
+                      "bg_hover_color": "",
+                      "body_color": "",
+                      "icon_styles": "",
+                      "content_styles": "",
+                      "title_styles": "",
+                      "media_margin": {
+                        "top": "",
+                        "left": "",
+                        "bottom": "",
+                        "right": ""
+                      },
+                      "bg_color": "",
+                      "icon_font_size": 80,
+                      "border": false,
+                      "body_font": {
+                        "size": "",
+                        "bold": "",
+                        "underline": "",
+                        "italic": "",
+                        "family": "",
+                        "case": "",
+                        "spacing": "",
+                        "height": ""
+                      },
+                      "border_hover_color": "",
+                      "image_position": "initial",
+                      "margin": {
+                        "top": "",
+                        "left": "",
+                        "bottom": "",
+                        "right": ""
+                      },
+                      "header_hover_color": "",
+                      "box_shadow_horizontal": 0,
+                      "border_color": "",
+                      "padding": {
+                        "top": "",
+                        "left": "",
+                        "bottom": "",
+                        "right": ""
+                      },
+                      "header_color": "",
+                      "box_shadow_inset": false,
+                      "box_shadow_blur": 0,
+                      "border_width": 2,
+                      "box_shadow": false,
+                      "media_style": "",
+                      "box_shadow_color": "",
+                      "border_boxshadow": "",
+                      "icon_color": "",
+                      "box_shadow_spread": 0,
+                      "border_style": "solid",
+                      "image_repeat": "no-repeat"
+                    },
+                    "animation": {
+                      "hover_shadow_horizontal": 0,
+                      "hover_animation": 0,
+                      "hover_shadow": "",
+                      "hover_shadow_blur": 0,
+                      "animation": 0,
+                      "hover_shadow_color": "",
+                      "animation_delay": 0.1,
+                      "hover_shadow_scale": 1,
+                      "hover_shadow_spread": 0,
+                      "hover_shadow_vertical": 0,
+                      "animation_apply": 0,
+                      "entrance": "",
+                      "hover": ""
+                    },
+                    "advanced": {
+                      "identifier": "",
+                      "label": "Blurb",
+                      "id": "qx-blurb-49866",
+                      "class": ""
+                    }
+                  },
+                  "slug": "blurb"
+                }
+              ],
+              "size": {
+                "lg": 0.3333333333333333,
+                "md": 0.3333333333333333,
+                "sm": 0.5,
+                "xs": 1
+              }
+            },
+            {
+              "visibility": {
+                "lg": true,
+                "md": true,
+                "sm": true,
+                "xs": true
+              },
+              "form": {
+                "general": {
+                  "center_text": false,
+                  "bg_image": "",
+                  "image_repeat": "no-repeat",
+                  "image_position": "initial",
+                  "image_size": "initial",
+                  "bg_color": "",
+                  "margin": {
+                    "top": "",
+                    "left": "",
+                    "bottom": "",
+                    "right": ""
+                  },
+                  "padding": {
+                    "top": "",
+                    "left": "",
+                    "bottom": "",
+                    "right": ""
+                  }
+                },
+                "styles": {
+                  "box_shadow": false,
+                  "box_shadow_color": "",
+                  "box_shadow_blur": 0,
+                  "box_shadow_spread": 0,
+                  "box_shadow_horizontal": 0,
+                  "box_shadow_vertical": 0,
+                  "box_shadow_inset": false
+                },
+                "animation": {
+                  "hover_shadow_horizontal": 0,
+                  "hover_animation": 0,
+                  "hover_shadow": "",
+                  "hover_shadow_blur": 0,
+                  "animation": 0,
+                  "hover_shadow_color": "",
+                  "animation_delay": 0.1,
+                  "hover_shadow_scale": 1,
+                  "hover_shadow_spread": 0,
+                  "hover_shadow_vertical": 0,
+                  "entrance": "",
+                  "hover": ""
+                },
+                "advanced": {
+                  "identifier": "",
+                  "label": "Column",
+                  "id": "qx-column-97867",
+                  "class": ""
+                }
+              },
+              "slug": "column",
+              "children": [],
+              "size": {
+                "lg": 0.3333333333333333,
+                "md": 0.3333333333333333,
+                "sm": 0.5,
+                "xs": 1
+              }
+            }
+          ]
+        },
+        {
+          "visibility": {
+            "lg": true,
+            "md": true,
+            "sm": true,
+            "xs": true
+          },
+          "form": {
+            "general": {
+              "container": false,
+              "bg_image": "",
+              "equal_column": false,
+              "image_size": "initial",
+              "bg_color": "",
+              "parallax_styles": "",
+              "background_image": "",
+              "image_position": "initial",
+              "margin": {
+                "top": "40px",
+                "left": "",
+                "bottom": "",
+                "right": ""
+              },
+              "element_style": "",
+              "parallax_x": 0,
+              "padding": {
+                "top": "",
+                "left": "",
+                "bottom": "",
+                "right": ""
+              },
+              "bg_parallax": false,
+              "parallax_y": -250,
+              "bg_overlay": false,
+              "parallax_breakpoint": 0,
+              "image_repeat": "no-repeat"
+            },
+            "styles": {
+              "box_shadow": false,
+              "box_shadow_color": "",
+              "box_shadow_blur": 0,
+              "box_shadow_spread": 0,
+              "box_shadow_horizontal": 0,
+              "box_shadow_vertical": 0,
+              "box_shadow_inset": false
+            },
+            "animation": {
+              "hover_shadow_horizontal": 0,
+              "hover_animation": 0,
+              "hover_shadow": "",
+              "hover_shadow_blur": 0,
+              "animation": "fadeInLeft",
+              "hover_shadow_color": "",
+              "animation_delay": 0.1,
+              "hover_shadow_scale": 1,
+              "hover_shadow_spread": 0,
+              "hover_shadow_vertical": 0,
+              "entrance": "",
+              "hover": ""
+            },
+            "advanced": {
+              "identifier": "",
+              "label": "Row",
+              "id": "qx-row-91868",
+              "class": ""
+            }
+          },
+          "slug": "row",
+          "children": [
+            {
+              "visibility": {
+                "lg": true,
+                "md": true,
+                "sm": true,
+                "xs": true
+              },
+              "form": {
+                "general": {
+                  "center_text": false,
+                  "bg_image": "",
+                  "image_repeat": "no-repeat",
+                  "image_position": "initial",
+                  "image_size": "initial",
+                  "bg_color": "",
+                  "margin": {
+                    "top": "",
+                    "left": "",
+                    "bottom": "",
+                    "right": ""
+                  },
+                  "padding": {
+                    "top": "",
+                    "left": "",
+                    "bottom": "",
+                    "right": ""
+                  }
+                },
+                "styles": {
+                  "box_shadow": false,
+                  "box_shadow_color": "",
+                  "box_shadow_blur": 0,
+                  "box_shadow_spread": 0,
+                  "box_shadow_horizontal": 0,
+                  "box_shadow_vertical": 0,
+                  "box_shadow_inset": false
+                },
+                "animation": {
+                  "hover_shadow_horizontal": 0,
+                  "hover_animation": 0,
+                  "hover_shadow": "",
+                  "hover_shadow_blur": 0,
+                  "animation": 0,
+                  "hover_shadow_color": "",
+                  "animation_delay": 0.1,
+                  "hover_shadow_scale": 1,
+                  "hover_shadow_spread": 0,
+                  "hover_shadow_vertical": 0,
+                  "entrance": "",
+                  "hover": ""
+                },
+                "advanced": {
+                  "identifier": "",
+                  "label": "Column",
+                  "id": "qx-column-4869",
+                  "class": ""
+                }
+              },
+              "slug": "column",
+              "children": [
+                {
+                  "visibility": {
+                    "lg": true,
+                    "md": true,
+                    "sm": true,
+                    "xs": true
+                  },
+                  "form": {
+                    "general": {
+                      "title_text": "Starts at <span>$9.99</span>/month",
+                      "paragraph_text": "",
+                      "subtitle_position": "after_title",
+                      "title_tag": "h2",
+                      "alignment": "left"
+                    },
+                    "styles": {
+                      "paragraph_font": {
+                        "size": "",
+                        "bold": "",
+                        "underline": "",
+                        "italic": "",
+                        "family": "",
+                        "case": "",
+                        "spacing": "",
+                        "height": ""
+                      },
+                      "title_span_note": "",
+                      "paragraph_text_color": "",
+                      "title_style": "",
+                      "subtitle_style": "",
+                      "margin": {
+                        "top": "",
+                        "left": "",
+                        "bottom": "",
+                        "right": ""
+                      },
+                      "paragraph_text_margin": {
+                        "top": "",
+                        "left": "",
+                        "bottom": "",
+                        "right": ""
+                      },
+                      "padding": {
+                        "top": "",
+                        "left": "",
+                        "bottom": "",
+                        "right": ""
+                      },
+                      "title_span_color": "#2575e7",
+                      "title_font": {
+                        "size": "",
+                        "bold": "",
+                        "underline": "",
+                        "italic": "",
+                        "family": "",
+                        "case": "",
+                        "spacing": "",
+                        "height": ""
+                      },
+                      "title_text_color": "",
+                      "title_text_margin": {
+                        "top": "",
+                        "left": "",
+                        "bottom": "",
+                        "right": ""
+                      },
+                      "element": "",
+                      "title_span_font": {
+                        "size": "",
+                        "bold": true,
+                        "underline": "",
+                        "italic": "",
+                        "family": "",
+                        "case": "",
+                        "spacing": "",
+                        "height": ""
+                      }
+                    },
+                    "animation": {
+                      "hover_shadow_horizontal": 0,
+                      "hover_animation": 0,
+                      "hover_shadow": "",
+                      "hover_shadow_blur": 0,
+                      "animation": 0,
+                      "hover_shadow_color": "",
+                      "animation_delay": 0.1,
+                      "hover_shadow_scale": 1,
+                      "hover_shadow_spread": 0,
+                      "hover_shadow_vertical": 0,
+                      "entrance": "",
+                      "hover": ""
+                    },
+                    "advanced": {
+                      "identifier": "",
+                      "label": "Heading",
+                      "id": "qx-heading-61870",
+                      "class": ""
+                    }
+                  },
+                  "slug": "heading"
+                }
+              ],
+              "size": {
+                "lg": 1,
+                "md": 1,
+                "sm": 1,
+                "xs": 1
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "visibility": {
+        "lg": false,
+        "md": false,
+        "sm": true,
+        "xs": true
+      },
+      "form": {
+        "general": {
+          "container": true,
+          "bg_image": "",
+          "image_size": "initial",
+          "bg_color": "#fafafa",
+          "parallax_styles": "",
+          "background_image": "",
+          "image_position": "initial",
+          "element_style": "",
+          "parallax_x": 0,
+          "padding": {
+            "top": "100px",
+            "left": "",
+            "bottom": "100px",
+            "right": ""
+          },
+          "bg_parallax": false,
+          "parallax_y": -250,
+          "bg_overlay": false,
+          "parallax_breakpoint": 0,
+          "stretch_mode": false,
+          "image_repeat": "no-repeat"
+        },
+        "styles": {
+          "box_shadow": false,
+          "box_shadow_color": "",
+          "box_shadow_blur": 0,
+          "box_shadow_spread": 0,
+          "box_shadow_horizontal": 0,
+          "box_shadow_vertical": 0,
+          "box_shadow_inset": false
+        },
+        "animation": {
+          "hover_shadow_horizontal": 0,
+          "hover_animation": 0,
+          "hover_shadow": "",
+          "hover_shadow_blur": 0,
+          "animation": 0,
+          "hover_shadow_color": "",
+          "animation_delay": 0.1,
+          "hover_shadow_scale": 1,
+          "hover_shadow_spread": 0,
+          "hover_shadow_vertical": 0,
+          "entrance": "",
+          "hover": ""
+        },
+        "advanced": {
+          "identifier": "",
+          "label": "Section 2 (Mobile & Tab)",
+          "id": "qx-section-20115",
+          "class": ""
+        }
+      },
+      "slug": "section",
+      "children": [
+        {
+          "visibility": {
+            "lg": true,
+            "md": true,
+            "sm": true,
+            "xs": true
+          },
+          "form": {
+            "general": {
+              "container": false,
+              "bg_image": "",
+              "equal_column": false,
+              "image_size": "initial",
+              "bg_color": "",
+              "parallax_styles": "",
+              "background_image": "",
+              "image_position": "initial",
+              "margin": {
+                "top": "",
+                "left": "",
+                "bottom": "",
+                "right": ""
+              },
+              "element_style": "",
+              "parallax_x": 0,
+              "padding": {
+                "top": "",
+                "left": "",
+                "bottom": "",
+                "right": ""
+              },
+              "bg_parallax": false,
+              "parallax_y": -250,
+              "bg_overlay": false,
+              "parallax_breakpoint": 0,
+              "image_repeat": "no-repeat"
+            },
+            "styles": {
+              "box_shadow": false,
+              "box_shadow_color": "",
+              "box_shadow_blur": 0,
+              "box_shadow_spread": 0,
+              "box_shadow_horizontal": 0,
+              "box_shadow_vertical": 0,
+              "box_shadow_inset": false
+            },
+            "animation": {
+              "hover_shadow_horizontal": 0,
+              "hover_animation": 0,
+              "hover_shadow": "",
+              "hover_shadow_blur": 0,
+              "animation": 0,
+              "hover_shadow_color": "",
+              "animation_delay": 0.1,
+              "hover_shadow_scale": 1,
+              "hover_shadow_spread": 0,
+              "hover_shadow_vertical": 0,
+              "entrance": "",
+              "hover": ""
+            },
+            "advanced": {
+              "identifier": "",
+              "label": "Row",
+              "id": "qx-row-13116",
+              "class": ""
+            }
+          },
+          "slug": "row",
+          "children": [
+            {
+              "visibility": {
+                "lg": true,
+                "md": true,
+                "sm": true,
+                "xs": true
+              },
+              "form": {
+                "general": {
+                  "center_text": false,
+                  "bg_image": "",
+                  "image_repeat": "no-repeat",
+                  "image_position": "initial",
+                  "image_size": "initial",
+                  "bg_color": "",
+                  "margin": {
+                    "top": "",
+                    "left": "",
+                    "bottom": "",
+                    "right": ""
+                  },
+                  "padding": {
+                    "top": "",
+                    "left": "",
+                    "bottom": "",
+                    "right": ""
+                  }
+                },
+                "styles": {
+                  "box_shadow": false,
+                  "box_shadow_color": "",
+                  "box_shadow_blur": 0,
+                  "box_shadow_spread": 0,
+                  "box_shadow_horizontal": 0,
+                  "box_shadow_vertical": 0,
+                  "box_shadow_inset": false
+                },
+                "animation": {
+                  "hover_shadow_horizontal": 0,
+                  "hover_animation": 0,
+                  "hover_shadow": "",
+                  "hover_shadow_blur": 0,
+                  "animation": "fadeInLeft",
+                  "hover_shadow_color": "",
+                  "animation_delay": 0.1,
+                  "hover_shadow_scale": 1,
+                  "hover_shadow_spread": 0,
+                  "hover_shadow_vertical": 0,
+                  "entrance": "",
+                  "hover": ""
+                },
+                "advanced": {
+                  "identifier": "",
+                  "label": "Column",
+                  "id": "qx-column-82117",
+                  "class": ""
+                }
+              },
+              "slug": "column",
+              "children": [
+                {
+                  "visibility": {
+                    "lg": true,
+                    "md": true,
+                    "sm": true,
+                    "xs": true
+                  },
+                  "form": {
+                    "general": {
+                      "title_text": "<span>Get Started!</span> Today's Offers",
+                      "paragraph_text": "<p>SEO WP built using Live Composer — a front-end page builder for <span style=\"color: #e74c3c;\">WordPress</span>. Live Composer is a new generation of the <span style=\"color: #e74c3c;\">visual editors</span> for your website. Using simple drag and drop interface you can create any page layout. <span style=\"color: #42d6c1;\">No coding skills required</span>. We are proud to be part of the Live Composer family contributing to its success among digital marketers and web designers.</p>",
+                      "subtitle_position": "after_title",
+                      "title_tag": "h2",
+                      "alignment": "left"
+                    },
+                    "styles": {
+                      "paragraph_font": {
+                        "size": "",
+                        "bold": "",
+                        "underline": "",
+                        "italic": "",
+                        "family": "",
+                        "case": "",
+                        "spacing": "",
+                        "height": ""
+                      },
+                      "title_span_note": "",
+                      "paragraph_text_color": "",
+                      "title_style": "",
+                      "subtitle_style": "",
+                      "margin": {
+                        "top": "",
+                        "left": "",
+                        "bottom": "",
+                        "right": ""
+                      },
+                      "paragraph_text_margin": {
+                        "top": "",
+                        "left": "",
+                        "bottom": "",
+                        "right": ""
+                      },
+                      "padding": {
+                        "top": "",
+                        "left": "",
+                        "bottom": "",
+                        "right": ""
+                      },
+                      "title_span_color": "#267ae9",
+                      "title_font": {
+                        "size": "40px",
+                        "bold": true,
+                        "underline": "",
+                        "italic": "",
+                        "family": {
+                          "label": "Roboto",
+                          "value": "Roboto",
+                          "clearable": true
+                        },
+                        "case": "",
+                        "spacing": "",
+                        "height": ""
+                      },
+                      "title_text_color": "",
+                      "title_text_margin": {
+                        "top": "",
+                        "left": "",
+                        "bottom": "30px",
+                        "right": ""
+                      },
+                      "element": "",
+                      "title_span_font": {
+                        "size": "",
+                        "bold": "",
+                        "underline": "",
+                        "italic": "",
+                        "family": "",
+                        "case": "",
+                        "spacing": "",
+                        "height": ""
+                      }
+                    },
+                    "animation": {
+                      "hover_shadow_horizontal": 0,
+                      "hover_animation": 0,
+                      "hover_shadow": "",
+                      "hover_shadow_blur": 0,
+                      "animation": 0,
+                      "hover_shadow_color": "",
+                      "animation_delay": 0.1,
+                      "hover_shadow_scale": 1,
+                      "hover_shadow_spread": 0,
+                      "hover_shadow_vertical": 0,
+                      "entrance": "",
+                      "hover": ""
+                    },
+                    "advanced": {
+                      "identifier": "",
+                      "label": "Heading",
+                      "id": "qx-heading-54118",
+                      "class": ""
+                    }
+                  },
+                  "slug": "heading"
+                }
+              ],
+              "size": {
+                "lg": 0.5833333333333334,
+                "md": 0.5833333333333334,
+                "sm": 1,
+                "xs": 1
+              }
+            },
+            {
+              "visibility": {
+                "lg": true,
+                "md": true,
+                "sm": true,
+                "xs": true
+              },
+              "form": {
+                "general": {
+                  "center_text": false,
+                  "bg_image": "",
+                  "image_repeat": "no-repeat",
+                  "image_position": "initial",
+                  "image_size": "initial",
+                  "bg_color": "",
+                  "margin": {
+                    "top": "",
+                    "left": "",
+                    "bottom": "",
+                    "right": ""
+                  },
+                  "padding": {
+                    "top": "",
+                    "left": "",
+                    "bottom": "",
+                    "right": ""
+                  }
+                },
+                "styles": {
+                  "box_shadow": false,
+                  "box_shadow_color": "",
+                  "box_shadow_blur": 0,
+                  "box_shadow_spread": 0,
+                  "box_shadow_horizontal": 0,
+                  "box_shadow_vertical": 0,
+                  "box_shadow_inset": false
+                },
+                "animation": {
+                  "hover_shadow_horizontal": 0,
+                  "hover_animation": 0,
+                  "hover_shadow": "",
+                  "hover_shadow_blur": 0,
+                  "animation": 0,
+                  "hover_shadow_color": "",
+                  "animation_delay": 0.1,
+                  "hover_shadow_scale": 1,
+                  "hover_shadow_spread": 0,
+                  "hover_shadow_vertical": 0,
+                  "entrance": "",
+                  "hover": ""
+                },
+                "advanced": {
+                  "identifier": "",
+                  "label": "Column",
+                  "id": "qx-column-37119",
+                  "class": ""
+                }
+              },
+              "slug": "column",
+              "children": [
+                {
+                  "visibility": {
+                    "lg": true,
+                    "md": true,
+                    "sm": true,
+                    "xs": true
+                  },
+                  "form": {
+                    "general": {
+                      "image": "images/themexpert/pages/domain/globe-cpu.png",
+                      "alt_text": "",
+                      "title_text": "",
+                      "responsive": false,
+                      "alignment": "center",
+                      "link": {
+                        "url": null,
+                        "target": null
+                      },
+                      "image_width": "",
+                      "image_height": ""
+                    },
+                    "styles": {
+                      "open_lightbox": false,
+                      "margin": {
+                        "top": "",
+                        "left": "",
+                        "bottom": "",
+                        "right": ""
+                      },
+                      "border": false,
+                      "border_width": 2,
+                      "border_radius": 3,
+                      "border_style": "solid",
+                      "border_color": "",
+                      "border_hover_color": ""
+                    },
+                    "animation": {
+                      "hover_shadow_horizontal": 0,
+                      "hover_animation": 0,
+                      "hover_shadow": "",
+                      "hover_shadow_blur": 0,
+                      "animation": "fadeInRight",
+                      "hover_shadow_color": "",
+                      "animation_delay": 0.1,
+                      "hover_shadow_scale": 1,
+                      "hover_shadow_spread": 0,
+                      "hover_shadow_vertical": 0,
+                      "entrance": "",
+                      "hover": ""
+                    },
+                    "advanced": {
+                      "identifier": "",
+                      "label": "Image",
+                      "id": "qx-image-16120",
+                      "class": ""
+                    }
+                  },
+                  "slug": "image"
+                }
+              ],
+              "size": {
+                "lg": 0.4166666666666667,
+                "md": 0.4166666666666667,
+                "sm": 1,
+                "xs": 1
+              }
+            }
+          ]
+        },
+        {
+          "visibility": {
+            "lg": true,
+            "md": true,
+            "sm": true,
+            "xs": true
+          },
+          "form": {
+            "general": {
+              "container": false,
+              "bg_image": "",
+              "equal_column": false,
+              "image_size": "initial",
+              "bg_color": "",
+              "parallax_styles": "",
+              "background_image": "",
+              "image_position": "initial",
+              "margin": {
+                "top": "",
+                "left": "",
+                "bottom": "",
+                "right": ""
+              },
+              "element_style": "",
+              "parallax_x": 0,
+              "padding": {
+                "top": "",
+                "left": "",
+                "bottom": "",
+                "right": ""
+              },
+              "bg_parallax": false,
+              "parallax_y": -250,
+              "bg_overlay": false,
+              "parallax_breakpoint": 0,
+              "image_repeat": "no-repeat"
+            },
+            "styles": {
+              "box_shadow": false,
+              "box_shadow_color": "",
+              "box_shadow_blur": 0,
+              "box_shadow_spread": 0,
+              "box_shadow_horizontal": 0,
+              "box_shadow_vertical": 0,
+              "box_shadow_inset": false
+            },
+            "animation": {
+              "hover_shadow_horizontal": 0,
+              "hover_animation": 0,
+              "hover_shadow": "",
+              "hover_shadow_blur": 0,
+              "animation": "fadeInLeft",
+              "hover_shadow_color": "",
+              "animation_delay": 0.1,
+              "hover_shadow_scale": 1,
+              "hover_shadow_spread": 0,
+              "hover_shadow_vertical": 0,
+              "entrance": "",
+              "hover": ""
+            },
+            "advanced": {
+              "identifier": "",
+              "label": "Row",
+              "id": "qx-row-31121",
+              "class": ""
+            }
+          },
+          "slug": "row",
+          "children": [
+            {
+              "visibility": {
+                "lg": true,
+                "md": true,
+                "sm": true,
+                "xs": true
+              },
+              "form": {
+                "general": {
+                  "center_text": false,
+                  "bg_image": "",
+                  "image_repeat": "no-repeat",
+                  "image_position": "initial",
+                  "image_size": "initial",
+                  "bg_color": "",
+                  "margin": {
+                    "top": "",
+                    "left": "",
+                    "bottom": "",
+                    "right": ""
+                  },
+                  "padding": {
+                    "top": "",
+                    "left": "",
+                    "bottom": "",
+                    "right": ""
+                  }
+                },
+                "styles": {
+                  "box_shadow": false,
+                  "box_shadow_color": "",
+                  "box_shadow_blur": 0,
+                  "box_shadow_spread": 0,
+                  "box_shadow_horizontal": 0,
+                  "box_shadow_vertical": 0,
+                  "box_shadow_inset": false
+                },
+                "animation": {
+                  "hover_shadow_horizontal": 0,
+                  "hover_animation": 0,
+                  "hover_shadow": "",
+                  "hover_shadow_blur": 0,
+                  "animation": 0,
+                  "hover_shadow_color": "",
+                  "animation_delay": 0.1,
+                  "hover_shadow_scale": 1,
+                  "hover_shadow_spread": 0,
+                  "hover_shadow_vertical": 0,
+                  "entrance": "",
+                  "hover": ""
+                },
+                "advanced": {
+                  "identifier": "",
+                  "label": "Column",
+                  "id": "qx-column-28122",
+                  "class": ""
+                }
+              },
+              "slug": "column",
+              "children": [
+                {
+                  "visibility": {
+                    "lg": true,
+                    "md": true,
+                    "sm": true,
+                    "xs": true
+                  },
+                  "form": {
+                    "general": {
+                      "alignment": "left",
+                      "placement": "left",
+                      "image_alt_text": "",
+                      "title_tag": "h3",
+                      "title": "Unlimited Disk Space",
+                      "content": "",
+                      "icon": "",
+                      "link": {
+                        "url": null,
+                        "target": null
+                      },
+                      "image": "images/themexpert/home/home1/icon/check.png",
+                      "icon_enabled": false,
+                      "link_type": "only_title"
+                    },
+                    "styles": {
+                      "header_margin": {
+                        "top": "4px",
+                        "left": "",
+                        "bottom": "",
+                        "right": ""
+                      },
+                      "bg_image": "",
+                      "box_shadow_vertical": 0,
+                      "header_font": {
+                        "size": "20px",
+                        "bold": "",
+                        "underline": "",
+                        "italic": "",
+                        "family": "",
+                        "case": "",
+                        "spacing": "",
+                        "height": ""
+                      },
+                      "border_radius": 3,
+                      "image_size": "initial",
+                      "blurb_styles": "",
+                      "bg_hover_color": "",
+                      "body_color": "",
+                      "icon_styles": "",
+                      "content_styles": "",
+                      "title_styles": "",
+                      "media_margin": {
+                        "top": "",
+                        "left": "",
+                        "bottom": "",
+                        "right": ""
+                      },
+                      "bg_color": "",
+                      "icon_font_size": 80,
+                      "border": false,
+                      "body_font": {
+                        "size": "",
+                        "bold": "",
+                        "underline": "",
+                        "italic": "",
+                        "family": "",
+                        "case": "",
+                        "spacing": "",
+                        "height": ""
+                      },
+                      "border_hover_color": "",
+                      "image_position": "initial",
+                      "margin": {
+                        "top": "",
+                        "left": "",
+                        "bottom": "",
+                        "right": ""
+                      },
+                      "header_hover_color": "",
+                      "box_shadow_horizontal": 0,
+                      "border_color": "",
+                      "padding": {
+                        "top": "",
+                        "left": "",
+                        "bottom": "",
+                        "right": ""
+                      },
+                      "header_color": "",
+                      "box_shadow_inset": false,
+                      "box_shadow_blur": 0,
+                      "border_width": 2,
+                      "box_shadow": false,
+                      "media_style": "",
+                      "box_shadow_color": "",
+                      "border_boxshadow": "",
+                      "icon_color": "",
+                      "box_shadow_spread": 0,
+                      "border_style": "solid",
+                      "image_repeat": "no-repeat"
+                    },
+                    "animation": {
+                      "hover_shadow_horizontal": 0,
+                      "hover_animation": 0,
+                      "hover_shadow": "",
+                      "hover_shadow_blur": 0,
+                      "animation": 0,
+                      "hover_shadow_color": "",
+                      "animation_delay": 0.1,
+                      "hover_shadow_scale": 1,
+                      "hover_shadow_spread": 0,
+                      "hover_shadow_vertical": 0,
+                      "animation_apply": 0,
+                      "entrance": "",
+                      "hover": ""
+                    },
+                    "advanced": {
+                      "identifier": "",
+                      "label": "Blurb",
+                      "id": "qx-blurb-43123",
+                      "class": ""
+                    }
+                  },
+                  "slug": "blurb"
+                },
+                {
+                  "visibility": {
+                    "lg": true,
+                    "md": true,
+                    "sm": true,
+                    "xs": true
+                  },
+                  "form": {
+                    "general": {
+                      "alignment": "left",
+                      "placement": "left",
+                      "image_alt_text": "",
+                      "title_tag": "h3",
+                      "title": "Unlimited Domains",
+                      "content": "",
+                      "icon": "",
+                      "link": {
+                        "url": null,
+                        "target": null
+                      },
+                      "image": "images/themexpert/home/home1/icon/check.png",
+                      "icon_enabled": false,
+                      "link_type": "only_title"
+                    },
+                    "styles": {
+                      "header_margin": {
+                        "top": "4px",
+                        "left": "",
+                        "bottom": "",
+                        "right": ""
+                      },
+                      "bg_image": "",
+                      "box_shadow_vertical": 0,
+                      "header_font": {
+                        "size": "20px",
+                        "bold": "",
+                        "underline": "",
+                        "italic": "",
+                        "family": "",
+                        "case": "",
+                        "spacing": "",
+                        "height": ""
+                      },
+                      "border_radius": 3,
+                      "image_size": "initial",
+                      "blurb_styles": "",
+                      "bg_hover_color": "",
+                      "body_color": "",
+                      "icon_styles": "",
+                      "content_styles": "",
+                      "title_styles": "",
+                      "media_margin": {
+                        "top": "",
+                        "left": "",
+                        "bottom": "",
+                        "right": ""
+                      },
+                      "bg_color": "",
+                      "icon_font_size": 80,
+                      "border": false,
+                      "body_font": {
+                        "size": "",
+                        "bold": "",
+                        "underline": "",
+                        "italic": "",
+                        "family": "",
+                        "case": "",
+                        "spacing": "",
+                        "height": ""
+                      },
+                      "border_hover_color": "",
+                      "image_position": "initial",
+                      "margin": {
+                        "top": "",
+                        "left": "",
+                        "bottom": "",
+                        "right": ""
+                      },
+                      "header_hover_color": "",
+                      "box_shadow_horizontal": 0,
+                      "border_color": "",
+                      "padding": {
+                        "top": "",
+                        "left": "",
+                        "bottom": "",
+                        "right": ""
+                      },
+                      "header_color": "",
+                      "box_shadow_inset": false,
+                      "box_shadow_blur": 0,
+                      "border_width": 2,
+                      "box_shadow": false,
+                      "media_style": "",
+                      "box_shadow_color": "",
+                      "border_boxshadow": "",
+                      "icon_color": "",
+                      "box_shadow_spread": 0,
+                      "border_style": "solid",
+                      "image_repeat": "no-repeat"
+                    },
+                    "animation": {
+                      "hover_shadow_horizontal": 0,
+                      "hover_animation": 0,
+                      "hover_shadow": "",
+                      "hover_shadow_blur": 0,
+                      "animation": 0,
+                      "hover_shadow_color": "",
+                      "animation_delay": 0.1,
+                      "hover_shadow_scale": 1,
+                      "hover_shadow_spread": 0,
+                      "hover_shadow_vertical": 0,
+                      "animation_apply": 0,
+                      "entrance": "",
+                      "hover": ""
+                    },
+                    "advanced": {
+                      "identifier": "",
+                      "label": "Blurb",
+                      "id": "qx-blurb-34124",
+                      "class": ""
+                    }
+                  },
+                  "slug": "blurb"
+                }
+              ],
+              "size": {
+                "lg": 0.3333333333333333,
+                "md": 0.3333333333333333,
+                "sm": 0.5,
+                "xs": 1
+              }
+            },
+            {
+              "visibility": {
+                "lg": true,
+                "md": true,
+                "sm": true,
+                "xs": true
+              },
+              "form": {
+                "general": {
+                  "center_text": false,
+                  "bg_image": "",
+                  "image_repeat": "no-repeat",
+                  "image_position": "initial",
+                  "image_size": "initial",
+                  "bg_color": "",
+                  "margin": {
+                    "top": "",
+                    "left": "",
+                    "bottom": "",
+                    "right": ""
+                  },
+                  "padding": {
+                    "top": "",
+                    "left": "",
+                    "bottom": "",
+                    "right": ""
+                  }
+                },
+                "styles": {
+                  "box_shadow": false,
+                  "box_shadow_color": "",
+                  "box_shadow_blur": 0,
+                  "box_shadow_spread": 0,
+                  "box_shadow_horizontal": 0,
+                  "box_shadow_vertical": 0,
+                  "box_shadow_inset": false
+                },
+                "animation": {
+                  "hover_shadow_horizontal": 0,
+                  "hover_animation": 0,
+                  "hover_shadow": "",
+                  "hover_shadow_blur": 0,
+                  "animation": 0,
+                  "hover_shadow_color": "",
+                  "animation_delay": 0.1,
+                  "hover_shadow_scale": 1,
+                  "hover_shadow_spread": 0,
+                  "hover_shadow_vertical": 0,
+                  "entrance": "",
+                  "hover": ""
+                },
+                "advanced": {
+                  "identifier": "",
+                  "label": "Column",
+                  "id": "qx-column-98125",
+                  "class": ""
+                }
+              },
+              "slug": "column",
+              "children": [
+                {
+                  "visibility": {
+                    "lg": true,
+                    "md": true,
+                    "sm": true,
+                    "xs": true
+                  },
+                  "form": {
+                    "general": {
+                      "alignment": "left",
+                      "placement": "left",
+                      "image_alt_text": "",
+                      "title_tag": "h3",
+                      "title": "Free Domain Registration",
+                      "content": "",
+                      "icon": "",
+                      "link": {
+                        "url": null,
+                        "target": null
+                      },
+                      "image": "images/themexpert/home/home1/icon/check.png",
+                      "icon_enabled": false,
+                      "link_type": "only_title"
+                    },
+                    "styles": {
+                      "header_margin": {
+                        "top": "4px",
+                        "left": "",
+                        "bottom": "",
+                        "right": ""
+                      },
+                      "bg_image": "",
+                      "box_shadow_vertical": 0,
+                      "header_font": {
+                        "size": "20px",
+                        "bold": "",
+                        "underline": "",
+                        "italic": "",
+                        "family": "",
+                        "case": "",
+                        "spacing": "",
+                        "height": ""
+                      },
+                      "border_radius": 3,
+                      "image_size": "initial",
+                      "blurb_styles": "",
+                      "bg_hover_color": "",
+                      "body_color": "",
+                      "icon_styles": "",
+                      "content_styles": "",
+                      "title_styles": "",
+                      "media_margin": {
+                        "top": "",
+                        "left": "",
+                        "bottom": "",
+                        "right": ""
+                      },
+                      "bg_color": "",
+                      "icon_font_size": 80,
+                      "border": false,
+                      "body_font": {
+                        "size": "",
+                        "bold": "",
+                        "underline": "",
+                        "italic": "",
+                        "family": "",
+                        "case": "",
+                        "spacing": "",
+                        "height": ""
+                      },
+                      "border_hover_color": "",
+                      "image_position": "initial",
+                      "margin": {
+                        "top": "",
+                        "left": "",
+                        "bottom": "",
+                        "right": ""
+                      },
+                      "header_hover_color": "",
+                      "box_shadow_horizontal": 0,
+                      "border_color": "",
+                      "padding": {
+                        "top": "",
+                        "left": "",
+                        "bottom": "",
+                        "right": ""
+                      },
+                      "header_color": "",
+                      "box_shadow_inset": false,
+                      "box_shadow_blur": 0,
+                      "border_width": 2,
+                      "box_shadow": false,
+                      "media_style": "",
+                      "box_shadow_color": "",
+                      "border_boxshadow": "",
+                      "icon_color": "",
+                      "box_shadow_spread": 0,
+                      "border_style": "solid",
+                      "image_repeat": "no-repeat"
+                    },
+                    "animation": {
+                      "hover_shadow_horizontal": 0,
+                      "hover_animation": 0,
+                      "hover_shadow": "",
+                      "hover_shadow_blur": 0,
+                      "animation": 0,
+                      "hover_shadow_color": "",
+                      "animation_delay": 0.1,
+                      "hover_shadow_scale": 1,
+                      "hover_shadow_spread": 0,
+                      "hover_shadow_vertical": 0,
+                      "animation_apply": 0,
+                      "entrance": "",
+                      "hover": ""
+                    },
+                    "advanced": {
+                      "identifier": "",
+                      "label": "Blurb",
+                      "id": "qx-blurb-56126",
+                      "class": ""
+                    }
+                  },
+                  "slug": "blurb"
+                },
+                {
+                  "visibility": {
+                    "lg": true,
+                    "md": true,
+                    "sm": true,
+                    "xs": true
+                  },
+                  "form": {
+                    "general": {
+                      "alignment": "left",
+                      "placement": "left",
+                      "image_alt_text": "",
+                      "title_tag": "h3",
+                      "title": "99.99% Uptime Guarantee",
+                      "content": "",
+                      "icon": "",
+                      "link": {
+                        "url": null,
+                        "target": null
+                      },
+                      "image": "images/themexpert/home/home1/icon/check.png",
+                      "icon_enabled": false,
+                      "link_type": "only_title"
+                    },
+                    "styles": {
+                      "header_margin": {
+                        "top": "4px",
+                        "left": "",
+                        "bottom": "",
+                        "right": ""
+                      },
+                      "bg_image": "",
+                      "box_shadow_vertical": 0,
+                      "header_font": {
+                        "size": "20px",
+                        "bold": "",
+                        "underline": "",
+                        "italic": "",
+                        "family": "",
+                        "case": "",
+                        "spacing": "",
+                        "height": ""
+                      },
+                      "border_radius": 3,
+                      "image_size": "initial",
+                      "blurb_styles": "",
+                      "bg_hover_color": "",
+                      "body_color": "",
+                      "icon_styles": "",
+                      "content_styles": "",
+                      "title_styles": "",
+                      "media_margin": {
+                        "top": "",
+                        "left": "",
+                        "bottom": "",
+                        "right": ""
+                      },
+                      "bg_color": "",
+                      "icon_font_size": 80,
+                      "border": false,
+                      "body_font": {
+                        "size": "",
+                        "bold": "",
+                        "underline": "",
+                        "italic": "",
+                        "family": "",
+                        "case": "",
+                        "spacing": "",
+                        "height": ""
+                      },
+                      "border_hover_color": "",
+                      "image_position": "initial",
+                      "margin": {
+                        "top": "",
+                        "left": "",
+                        "bottom": "",
+                        "right": ""
+                      },
+                      "header_hover_color": "",
+                      "box_shadow_horizontal": 0,
+                      "border_color": "",
+                      "padding": {
+                        "top": "",
+                        "left": "",
+                        "bottom": "",
+                        "right": ""
+                      },
+                      "header_color": "",
+                      "box_shadow_inset": false,
+                      "box_shadow_blur": 0,
+                      "border_width": 2,
+                      "box_shadow": false,
+                      "media_style": "",
+                      "box_shadow_color": "",
+                      "border_boxshadow": "",
+                      "icon_color": "",
+                      "box_shadow_spread": 0,
+                      "border_style": "solid",
+                      "image_repeat": "no-repeat"
+                    },
+                    "animation": {
+                      "hover_shadow_horizontal": 0,
+                      "hover_animation": 0,
+                      "hover_shadow": "",
+                      "hover_shadow_blur": 0,
+                      "animation": 0,
+                      "hover_shadow_color": "",
+                      "animation_delay": 0.1,
+                      "hover_shadow_scale": 1,
+                      "hover_shadow_spread": 0,
+                      "hover_shadow_vertical": 0,
+                      "animation_apply": 0,
+                      "entrance": "",
+                      "hover": ""
+                    },
+                    "advanced": {
+                      "identifier": "",
+                      "label": "Blurb",
+                      "id": "qx-blurb-69127",
+                      "class": ""
+                    }
+                  },
+                  "slug": "blurb"
+                }
+              ],
+              "size": {
+                "lg": 0.3333333333333333,
+                "md": 0.3333333333333333,
+                "sm": 0.5,
+                "xs": 1
+              }
+            },
+            {
+              "visibility": {
+                "lg": true,
+                "md": true,
+                "sm": true,
+                "xs": true
+              },
+              "form": {
+                "general": {
+                  "center_text": false,
+                  "bg_image": "",
+                  "image_repeat": "no-repeat",
+                  "image_position": "initial",
+                  "image_size": "initial",
+                  "bg_color": "",
+                  "margin": {
+                    "top": "",
+                    "left": "",
+                    "bottom": "",
+                    "right": ""
+                  },
+                  "padding": {
+                    "top": "",
+                    "left": "",
+                    "bottom": "",
+                    "right": ""
+                  }
+                },
+                "styles": {
+                  "box_shadow": false,
+                  "box_shadow_color": "",
+                  "box_shadow_blur": 0,
+                  "box_shadow_spread": 0,
+                  "box_shadow_horizontal": 0,
+                  "box_shadow_vertical": 0,
+                  "box_shadow_inset": false
+                },
+                "animation": {
+                  "hover_shadow_horizontal": 0,
+                  "hover_animation": 0,
+                  "hover_shadow": "",
+                  "hover_shadow_blur": 0,
+                  "animation": 0,
+                  "hover_shadow_color": "",
+                  "animation_delay": 0.1,
+                  "hover_shadow_scale": 1,
+                  "hover_shadow_spread": 0,
+                  "hover_shadow_vertical": 0,
+                  "entrance": "",
+                  "hover": ""
+                },
+                "advanced": {
+                  "identifier": "",
+                  "label": "Column",
+                  "id": "qx-column-50128",
+                  "class": ""
+                }
+              },
+              "slug": "column",
+              "children": [],
+              "size": {
+                "lg": 0.3333333333333333,
+                "md": 0.3333333333333333,
+                "sm": 0.5,
+                "xs": 1
+              }
+            }
+          ]
+        },
+        {
+          "visibility": {
+            "lg": true,
+            "md": true,
+            "sm": true,
+            "xs": true
+          },
+          "form": {
+            "general": {
+              "container": false,
+              "bg_image": "",
+              "equal_column": false,
+              "image_size": "initial",
+              "bg_color": "",
+              "parallax_styles": "",
+              "background_image": "",
+              "image_position": "initial",
+              "margin": {
+                "top": "40px",
+                "left": "",
+                "bottom": "",
+                "right": ""
+              },
+              "element_style": "",
+              "parallax_x": 0,
+              "padding": {
+                "top": "",
+                "left": "",
+                "bottom": "",
+                "right": ""
+              },
+              "bg_parallax": false,
+              "parallax_y": -250,
+              "bg_overlay": false,
+              "parallax_breakpoint": 0,
+              "image_repeat": "no-repeat"
+            },
+            "styles": {
+              "box_shadow": false,
+              "box_shadow_color": "",
+              "box_shadow_blur": 0,
+              "box_shadow_spread": 0,
+              "box_shadow_horizontal": 0,
+              "box_shadow_vertical": 0,
+              "box_shadow_inset": false
+            },
+            "animation": {
+              "hover_shadow_horizontal": 0,
+              "hover_animation": 0,
+              "hover_shadow": "",
+              "hover_shadow_blur": 0,
+              "animation": "fadeInLeft",
+              "hover_shadow_color": "",
+              "animation_delay": 0.1,
+              "hover_shadow_scale": 1,
+              "hover_shadow_spread": 0,
+              "hover_shadow_vertical": 0,
+              "entrance": "",
+              "hover": ""
+            },
+            "advanced": {
+              "identifier": "",
+              "label": "Row",
+              "id": "qx-row-84129",
+              "class": ""
+            }
+          },
+          "slug": "row",
+          "children": [
+            {
+              "visibility": {
+                "lg": true,
+                "md": true,
+                "sm": true,
+                "xs": true
+              },
+              "form": {
+                "general": {
+                  "center_text": false,
+                  "bg_image": "",
+                  "image_repeat": "no-repeat",
+                  "image_position": "initial",
+                  "image_size": "initial",
+                  "bg_color": "",
+                  "margin": {
+                    "top": "",
+                    "left": "",
+                    "bottom": "",
+                    "right": ""
+                  },
+                  "padding": {
+                    "top": "",
+                    "left": "",
+                    "bottom": "",
+                    "right": ""
+                  }
+                },
+                "styles": {
+                  "box_shadow": false,
+                  "box_shadow_color": "",
+                  "box_shadow_blur": 0,
+                  "box_shadow_spread": 0,
+                  "box_shadow_horizontal": 0,
+                  "box_shadow_vertical": 0,
+                  "box_shadow_inset": false
+                },
+                "animation": {
+                  "hover_shadow_horizontal": 0,
+                  "hover_animation": 0,
+                  "hover_shadow": "",
+                  "hover_shadow_blur": 0,
+                  "animation": 0,
+                  "hover_shadow_color": "",
+                  "animation_delay": 0.1,
+                  "hover_shadow_scale": 1,
+                  "hover_shadow_spread": 0,
+                  "hover_shadow_vertical": 0,
+                  "entrance": "",
+                  "hover": ""
+                },
+                "advanced": {
+                  "identifier": "",
+                  "label": "Column",
+                  "id": "qx-column-53130",
+                  "class": ""
+                }
+              },
+              "slug": "column",
+              "children": [
+                {
+                  "visibility": {
+                    "lg": true,
+                    "md": true,
+                    "sm": true,
+                    "xs": true
+                  },
+                  "form": {
+                    "general": {
+                      "title_text": "Starts at <span>$9.99</span>/month",
+                      "paragraph_text": "",
+                      "subtitle_position": "after_title",
+                      "title_tag": "h2",
+                      "alignment": "left"
+                    },
+                    "styles": {
+                      "paragraph_font": {
+                        "size": "",
+                        "bold": "",
+                        "underline": "",
+                        "italic": "",
+                        "family": "",
+                        "case": "",
+                        "spacing": "",
+                        "height": ""
+                      },
+                      "title_span_note": "",
+                      "paragraph_text_color": "",
+                      "title_style": "",
+                      "subtitle_style": "",
+                      "margin": {
+                        "top": "",
+                        "left": "",
+                        "bottom": "",
+                        "right": ""
+                      },
+                      "paragraph_text_margin": {
+                        "top": "",
+                        "left": "",
+                        "bottom": "",
+                        "right": ""
+                      },
+                      "padding": {
+                        "top": "",
+                        "left": "",
+                        "bottom": "",
+                        "right": ""
+                      },
+                      "title_span_color": "#2575e7",
+                      "title_font": {
+                        "size": "",
+                        "bold": "",
+                        "underline": "",
+                        "italic": "",
+                        "family": "",
+                        "case": "",
+                        "spacing": "",
+                        "height": ""
+                      },
+                      "title_text_color": "",
+                      "title_text_margin": {
+                        "top": "",
+                        "left": "",
+                        "bottom": "",
+                        "right": ""
+                      },
+                      "element": "",
+                      "title_span_font": {
+                        "size": "",
+                        "bold": true,
+                        "underline": "",
+                        "italic": "",
+                        "family": "",
+                        "case": "",
+                        "spacing": "",
+                        "height": ""
+                      }
+                    },
+                    "animation": {
+                      "hover_shadow_horizontal": 0,
+                      "hover_animation": 0,
+                      "hover_shadow": "",
+                      "hover_shadow_blur": 0,
+                      "animation": 0,
+                      "hover_shadow_color": "",
+                      "animation_delay": 0.1,
+                      "hover_shadow_scale": 1,
+                      "hover_shadow_spread": 0,
+                      "hover_shadow_vertical": 0,
+                      "entrance": "",
+                      "hover": ""
+                    },
+                    "advanced": {
+                      "identifier": "",
+                      "label": "Heading",
+                      "id": "qx-heading-72131",
+                      "class": ""
+                    }
+                  },
+                  "slug": "heading"
+                }
+              ],
+              "size": {
+                "lg": 1,
+                "md": 1,
+                "sm": 1,
+                "xs": 1
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "visibility": {
+        "lg": true,
+        "md": true,
+        "sm": true,
+        "xs": true
+      },
+      "form": {
+        "general": {
+          "container": true,
+          "bg_image": "",
+          "image_size": "initial",
+          "bg_color": "",
+          "parallax_styles": "",
+          "background_image": "",
+          "image_position": "initial",
+          "element_style": "",
+          "parallax_x": 0,
+          "padding": {
+            "top": "100px",
+            "left": "",
+            "bottom": "100px",
+            "right": ""
+          },
+          "bg_parallax": false,
+          "parallax_y": -250,
+          "bg_overlay": false,
+          "parallax_breakpoint": 0,
+          "stretch_mode": false,
+          "image_repeat": "no-repeat"
+        },
+        "styles": {
+          "box_shadow": false,
+          "box_shadow_color": "",
+          "box_shadow_blur": 0,
+          "box_shadow_spread": 0,
+          "box_shadow_horizontal": 0,
+          "box_shadow_vertical": 0,
+          "box_shadow_inset": false
+        },
+        "animation": {
+          "hover_shadow_horizontal": 0,
+          "hover_animation": 0,
+          "hover_shadow": "",
+          "hover_shadow_blur": 0,
+          "animation": 0,
+          "hover_shadow_color": "",
+          "animation_delay": 0.1,
+          "hover_shadow_scale": 1,
+          "hover_shadow_spread": 0,
+          "hover_shadow_vertical": 0,
+          "entrance": "",
+          "hover": ""
+        },
+        "advanced": {
+          "identifier": "",
+          "label": "Section 3",
+          "id": "qx-section-9132",
+          "class": ""
+        }
+      },
+      "slug": "section",
+      "children": [
+        {
+          "visibility": {
+            "lg": true,
+            "md": true,
+            "sm": true,
+            "xs": true
+          },
+          "form": {
+            "general": {
+              "container": false,
+              "bg_image": "",
+              "equal_column": false,
+              "image_size": "initial",
+              "bg_color": "",
+              "parallax_styles": "",
+              "background_image": "",
+              "image_position": "initial",
+              "margin": {
+                "top": "",
+                "left": "",
+                "bottom": "",
+                "right": ""
+              },
+              "element_style": "",
+              "parallax_x": 0,
+              "padding": {
+                "top": "",
+                "left": "",
+                "bottom": "",
+                "right": ""
+              },
+              "bg_parallax": false,
+              "parallax_y": -250,
+              "bg_overlay": false,
+              "parallax_breakpoint": "",
+              "image_repeat": "no-repeat"
+            },
+            "styles": {
+              "box_shadow": false,
+              "box_shadow_color": "",
+              "box_shadow_blur": 0,
+              "box_shadow_spread": 0,
+              "box_shadow_horizontal": 0,
+              "box_shadow_vertical": 0,
+              "box_shadow_inset": false
+            },
+            "animation": {
+              "hover_shadow_horizontal": 0,
+              "hover_animation": 0,
+              "hover_shadow": "",
+              "hover_shadow_blur": 0,
+              "animation": 0,
+              "hover_shadow_color": "",
+              "animation_delay": 0.1,
+              "hover_shadow_scale": 1,
+              "hover_shadow_spread": 0,
+              "hover_shadow_vertical": 0,
+              "entrance": "",
+              "hover": ""
+            },
+            "advanced": {
+              "identifier": "",
+              "label": "Row",
+              "id": "qx-row-3633",
+              "class": ""
+            }
+          },
+          "slug": "row",
+          "children": [
+            {
+              "visibility": {
+                "lg": true,
+                "md": true,
+                "sm": true,
+                "xs": true
+              },
+              "form": {
+                "general": {
+                  "center_text": false,
+                  "bg_image": "",
+                  "image_repeat": "no-repeat",
+                  "image_position": "initial",
+                  "image_size": "initial",
+                  "bg_color": "",
+                  "margin": {
+                    "top": "",
+                    "left": "",
+                    "bottom": "",
+                    "right": ""
+                  },
+                  "padding": {
+                    "top": "",
+                    "left": "",
+                    "bottom": "",
+                    "right": ""
+                  }
+                },
+                "styles": {
+                  "box_shadow": false,
+                  "box_shadow_color": "",
+                  "box_shadow_blur": 0,
+                  "box_shadow_spread": 0,
+                  "box_shadow_horizontal": 0,
+                  "box_shadow_vertical": 0,
+                  "box_shadow_inset": false
+                },
+                "animation": {
+                  "hover_shadow_horizontal": 0,
+                  "hover_animation": 0,
+                  "hover_shadow": "",
+                  "hover_shadow_blur": 0,
+                  "animation": 0,
+                  "hover_shadow_color": "",
+                  "animation_delay": 0.1,
+                  "hover_shadow_scale": 1,
+                  "hover_shadow_spread": 0,
+                  "hover_shadow_vertical": 0,
+                  "entrance": "",
+                  "hover": ""
+                },
+                "advanced": {
+                  "identifier": "",
+                  "label": "Column",
+                  "id": "qx-column-53122",
+                  "class": ""
+                }
+              },
+              "slug": "column",
+              "children": [
+                {
+                  "visibility": {
+                    "lg": true,
+                    "md": true,
+                    "sm": true,
+                    "xs": true
+                  },
+                  "form": {
+                    "general": {
+                      "mobile": "",
+                      "slides_tablet": 3,
+                      "enable_title_caption": false,
+                      "autoplay": false,
+                      "alignment": "center",
+                      "tablet": "",
+                      "dots": false,
+                      "slides_scroll": 1,
+                      "arrows": true,
+                      "common": "",
+                      "autoplay_speed": 5000,
+                      "slides_count": "5",
+                      "carousels": [
+                        {
+                          "title": "Carousel 1",
+                          "image": "images/themexpert/pages/clients/1.png",
+                          "link": {
+                            "url": null,
+                            "target": null
+                          },
+                          "caption": "Lorem ipsum dolor sit amet timeam deleniti mnesarchum"
+                        },
+                        {
+                          "title": "Carousel 2",
+                          "image": "images/themexpert/pages/clients/2.png",
+                          "link": {
+                            "url": null,
+                            "target": null
+                          },
+                          "caption": "Lorem ipsum dolor sit amet timeam deleniti mnesarchum"
+                        },
+                        {
+                          "title": "Carousel 3",
+                          "image": "images/themexpert/pages/clients/3.png",
+                          "link": {
+                            "url": null,
+                            "target": null
+                          },
+                          "caption": "Lorem ipsum dolor sit amet timeam deleniti mnesarchum"
+                        },
+                        {
+                          "title": "Carousel 4",
+                          "image": "images/themexpert/pages/clients/4.png",
+                          "link": {
+                            "url": null,
+                            "target": null
+                          },
+                          "caption": "Lorem ipsum dolor sit amet timeam deleniti mnesarchum"
+                        },
+                        {
+                          "title": "Carousel 5",
+                          "image": "images/themexpert/pages/clients/5.png",
+                          "link": {
+                            "url": null,
+                            "target": null
+                          },
+                          "caption": "Lorem ipsum dolor sit amet timeam deleniti mnesarchum"
+                        }
+                      ],
+                      "desktop": "",
+                      "slides_mobile": 1
+                    },
+                    "styles": {
+                      "box_shadow_vertical": 0,
+                      "item_style": "",
+                      "item_padding": {
+                        "top": "",
+                        "left": "",
+                        "bottom": "",
+                        "right": ""
+                      },
+                      "caption_font": {
+                        "size": "",
+                        "bold": "",
+                        "underline": "",
+                        "italic": "",
+                        "family": "",
+                        "case": "",
+                        "spacing": "",
+                        "height": ""
+                      },
+                      "bg_color": "",
+                      "caption_color": "",
+                      "image_style": "square",
+                      "margin": {
+                        "top": "",
+                        "left": "",
+                        "bottom": "",
+                        "right": ""
+                      },
+                      "box_shadow_horizontal": 0,
+                      "padding": {
+                        "top": "",
+                        "left": "",
+                        "bottom": "",
+                        "right": ""
+                      },
+                      "box_shadow_inset": false,
+                      "box_shadow_blur": 0,
+                      "box_shadow": false,
+                      "global_style": "",
+                      "item_bg_color": "",
+                      "title_font": {
+                        "size": "",
+                        "bold": "",
+                        "underline": "",
+                        "italic": "",
+                        "family": "",
+                        "case": "",
+                        "spacing": "",
+                        "height": ""
+                      },
+                      "box_shadow_color": "",
+                      "item_margin": {
+                        "top": "",
+                        "left": "",
+                        "bottom": "",
+                        "right": ""
+                      },
+                      "title_color": "",
+                      "box_shadow_spread": 0
+                    },
+                    "animation": {
+                      "hover_shadow_horizontal": 0,
+                      "hover_animation": 0,
+                      "hover_shadow": "",
+                      "hover_shadow_blur": 0,
+                      "animation": "fadeInUp",
+                      "hover_shadow_color": "",
+                      "animation_delay": 0.1,
+                      "hover_shadow_scale": 1,
+                      "hover_shadow_spread": 0,
+                      "hover_shadow_vertical": 0,
+                      "entrance": "",
+                      "hover": ""
+                    },
+                    "advanced": {
+                      "identifier": "",
+                      "label": "Carousel",
+                      "id": "qx-carousel-70125",
+                      "class": ""
+                    }
+                  },
+                  "slug": "carousel"
+                }
+              ],
+              "size": {
+                "lg": 1,
+                "md": 1,
+                "sm": 1,
+                "xs": 1
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

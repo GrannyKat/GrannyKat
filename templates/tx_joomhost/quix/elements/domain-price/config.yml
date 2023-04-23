@@ -1,0 +1,101 @@
+name: Domain Price
+slug: domain-price
+groups: JoomHost
+form:
+  general:
+
+    - name: domain_extension
+      type: text
+      value: .com
+
+    - name: domain_price
+      type: text
+      value: $99
+
+  styles:
+    - name: global_divider
+      type: divider
+
+    - name : box_shadow
+      type : switch
+      label : Enable Box Shadow
+
+    - name : box_shadow_color
+      type : color
+      label : Color
+      depends:
+        box_shadow : true
+
+    - name : box_shadow_blur
+      type : slider
+      label : Blur
+      max : 200
+      suffix : px
+      depends:
+        box_shadow : true
+
+    - name : box_shadow_spread
+      type : slider
+      label : Spread
+      max : 200
+      suffix : px
+      depends:
+        box_shadow : true
+
+    - name : box_shadow_horizontal
+      type : slider
+      label : Horizontal
+      min : -250
+      max : 250
+      suffix : px
+      depends:
+        box_shadow : true
+
+    - name : box_shadow_vertical
+      type : slider
+      label : Vertical
+      min : -250
+      max : 250
+      suffix : px
+      depends:
+        box_shadow : true
+
+    - name : box_shadow_inset
+      type : switch
+      label : Inset
+      help : If specified, the shadows are drawn inside the frame.
+      depends:
+        box_shadow : true
+
+    - name: margin
+      type: margin
+
+    - name: domain_extension_divider
+      type: divider
+
+    - name: domain_extension_font
+      type: typography
+
+    - name: domain_extension_bg
+      type: color
+
+    - name: domain_extension_color
+      type: color
+
+    - name: domain_extension_padding
+      type: padding
+
+    - name: domain_price_divider
+      type: divider
+
+    - name: domain_price_font
+      type: typography
+
+    - name: domain_price_bg
+      type: color
+
+    - name: domain_price_color
+      type: color
+
+    - name: domain_price_padding
+      type: padding

@@ -1,0 +1,225 @@
+name: JoomHost Pricing Table
+slug: hostsite-pricing-table
+groups: JoomHost
+form:
+  general:
+
+    - name: layout
+      type: select
+      options:
+        1: Style 1
+        2: Style 2
+      value: 1
+
+    - name: packege
+      type: text
+      help: Input packege name.
+      value: Standard
+
+    - name: description
+      type: text
+      help: Input packege short info.
+      value: Lorem ips illud nonummy, novum tation et his.
+
+    - name: image_packege
+      type: file-manager
+
+    - name: curency
+      type: text
+      help: Input curency.
+      value: $
+
+    - name: amount
+      type: text
+      help: Input price.
+      value: 99
+
+    - name: plantype
+      type: text
+      help: Input plan type.
+      value: Month
+      label: Plan Type
+
+    - name: featurelist
+      type: input-repeater
+      label: Feature List
+      help:
+      schema:
+        name: feature
+        type: text
+      value: ['Lorem ips illud nonummy']
+
+    - name: button
+      type: link
+
+    - name: btntype
+      type: select
+      value: regular
+      label: Button Type
+      options:
+        regular: Regular
+        fullwidth: Full Width
+
+    - name: btnstyle
+      type: select
+      value: qx-btn-default
+      label: Button Style
+      options:
+        qx-btn-default: Default
+        qx-btn-primary: Primary
+        qx-btn-success: Success
+        qx-btn-info: Info
+        qx-btn-warning: Warning
+        qx-btn-danger: Danger
+        qx-btn-link: Link
+
+  styles:
+    - name: typography_options
+      type: divider
+
+    - name: curency_font
+      type: typography
+
+    - name: amount_font
+      type: typography
+
+    - name: plantype_font
+      type: typography
+
+    - name: title_font
+      type: typography
+
+    - name: description_font
+      type: typography
+
+    - name: button_font
+      type: typography
+
+    - name: margin_divider
+      type: divider
+
+    - name: image_margin
+      type: margin
+
+    - name: heading_margin
+      type: margin
+
+    - name: cost_margin
+      type: margin
+
+    - name: title_margin
+      type: margin
+
+    - name: description_margin
+      type: margin
+
+    - name: body_margin
+      type: margin
+
+    - name: footer_margin
+      type: margin
+
+    - name: global_option
+      type: divider
+
+    - name: font
+      type: typography
+
+    - name: alignment
+      type: select
+      value: center
+      label: Text Alignment
+      options:
+        left: Left
+        right: Right
+        center: Center
+
+    - name: text_color
+      type: color
+      label: Text Color
+
+    - name: bg_color
+      type: color
+      label: Background Color
+
+    - name: border
+      type: switch
+      label: Use Border
+
+    - name: border_width
+      type: slider
+      label: Border Width
+      value: 2
+      depends:
+        border: true
+
+    - name: border_radius
+      type: slider
+      label: Border Radius
+      value: 3
+      depends:
+        border: true
+
+    - name: border_style
+      type: select
+      value: solid
+      depends:
+        border: true
+      options:
+        solid: Solid
+        dotted: Dotted
+        dashed: Dashed
+        double: Double
+        groove: Groove
+        ridge: Ridge
+        inset: Inset
+        outset: Outset
+
+    - name: border_color
+      type: color
+      label: Border Color
+      depends:
+        border: true
+
+    - name: margin
+      type: margin
+
+    - name: padding
+      type: padding
+
+    - name: bg_color_divider
+      type: divider
+
+    - name: table_heading_bg_color
+      type: color
+      label: Heading Background Color
+
+    - name: table_heading_curve_bg_color
+      type: color
+      label: Heading Curve Background Color
+
+    - name: table_body_bg_color
+      type: color
+      label: Body Background Color
+
+    - name: table_footer_bg_color
+      type: color
+      label: Footer Background Color
+
+    - name: color_divider
+      type: divider
+
+    - name: title_color
+      type: color
+
+    - name: description_color
+      type: color
+
+    - name: curency_color
+      type: color
+
+    - name: amount_color
+      type: color
+
+    - name: duration_color
+      type: color

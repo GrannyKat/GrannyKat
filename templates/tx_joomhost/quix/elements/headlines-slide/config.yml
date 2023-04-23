@@ -1,0 +1,75 @@
+name: Headline Slide
+slug: headlines-slide
+groups: JoomHost
+form:
+  general:
+
+    - name: headline
+      type: text
+      help: Input your headline
+      value: A Beautiful theme for
+
+    - name: animated
+      type: input-repeater
+      label: Animated Part
+      help:
+      schema:
+        name: rotating-text
+        type: text
+      value: ['Everyone']
+
+    - name: sliding-style
+      type: select
+      value: rotate-1
+      label: Animation
+      options:
+        rotate-1: Rotate
+#        rotate-2: Rotate 2
+#        rotate-3: Rotate 3
+#        type: Type
+        loading-bar: Loading Bar
+        slide: Slide
+        clip: Clip
+        zoom: Zoom
+#        scale: Scale
+        push: Push
+        0: No Animation
+
+  styles:
+    - name: alignment
+      type: select
+      value: left
+      label: Text Alignment
+      options:
+        left: Left
+        right: Right
+        center: Center
+
+    - name: animation
+      type: select
+      value: fadeIn
+      label: Animation
+      options:
+        fadeInLeft: Left To Right
+        fadeInRight: Right To Left
+        fadeInUp: Bottom To Top
+        fadeInDown: Top To Bottom
+        fadeIn: Fade In
+        zoomIn: Zoom In
+        0: No Animation
+
+    - name: font
+      type: typography
+
+    - name: color
+      type: color
+
+    - name: slide_color
+      type: color
+      label: Slide Text Color
+
+    - name: margin
+      type: margin
+
+    - name: padding
+      type: padding
